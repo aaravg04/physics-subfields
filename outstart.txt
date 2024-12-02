@@ -1,0 +1,1104 @@
+Year: 1910
+
+
+Year: 1911
+
+
+Year: 1912
+
+
+Year: 1913
+Columbia: Charles C. Trowbridge
+
+Year: 1914
+Columbia: James P.C. Southall
+
+Year: 1915
+Cornell: John S. Shearer
+
+Year: 1916
+
+
+Year: 1917
+
+
+Year: 1918
+
+
+Year: 1919
+
+
+Year: 1920
+Harvard: William Bovie
+
+Year: 1921
+Cornell: Floyd K. Richtmyer
+
+Year: 1922
+
+
+Year: 1923
+
+
+Year: 1924
+
+
+Year: 1925
+Iowa State: Jay  W. Woodrow
+
+Year: 1926
+
+
+Year: 1927
+
+
+Year: 1928
+
+
+Year: 1929
+Purdue: Karl Lark-Horovitz
+
+Year: 1930
+
+
+Year: 1931
+
+
+Year: 1932
+
+
+Year: 1933
+Cincinnati: Harold Kersten
+
+Year: 1934
+MIT: Robley D. Evans
+
+Year: 1935
+Johns Hopkins: James Franck
+
+Year: 1936
+Missouri: Fred M. Uber
+North Carolina: Otto Stuhlman
+
+Year: 1937
+Caltech: Alexander Goetz
+Florida: Arthur A. Bless
+
+Year: 1938
+Cornell: Leroy L. Barnes
+NYU: Richard Cox
+
+Year: 1939
+Caltech: Gennady Potapenko
+Michigan: Horace Richard Crane
+Minnesota: Otto H. Schmitt
+Virginia: Jesse Beams
+
+Year: 1940
+Illinois: James H. Bartlett, Jr.
+Vanderbilt: Max Delbruck
+
+Year: 1941
+
+
+Year: 1942
+
+
+Year: 1943
+
+
+Year: 1944
+Dartmouth: Allen L. King
+Pittsburgh: Max A. Lauffer
+
+Year: 1945
+Chicago: John Platt
+Michigan: Robley C. Williams
+
+Year: 1946
+Chicago: Alexander Kolin
+Iowa State: Fred M. Uber
+Wisconsin: Hugo Bernard Wahlin
+
+Year: 1947
+Cincinnati: Violet Diller
+Purdue: Seymour Benzer
+
+Year: 1948
+Michigan: Harrison M. Randall
+Tennessee: Isabel Hanson Tipton
+Wisconsin: William W. Beeman
+Yale: Ernest C. Pollard, Richard Setlow, Franklin Hutchinson
+
+Year: 1949
+Iowa State: Robert L. Sinsheimer
+Kansas State: Robert Katz
+Michigan: Gordon B.B.M. Sutherland
+Purdue: Robert L. Platzman
+Tulane: Robert T. Nieset
+
+Year: 1950
+Case Western: Earle C. Gregg
+Florida: David Pomeroy
+Geo. Washington: Herbert Jehle
+Michigan: Cyrus Levinthal
+Nebraska: Herbert Jehle
+Ohio State: Richard Carl Nelson
+Utah: Walter M. Elsasser
+
+Year: 1951
+Penn State: Eugene Ackerman
+
+Year: 1952
+
+
+Year: 1953
+Geo. Washington: George Gamow
+
+Year: 1954
+Washington U: Jonathan Townsend
+
+Year: 1955
+CCNY: Hiram Hart
+Duke: Walter Gordy
+Michigan: Samuel Krimm
+Penn State: Raymond Pepinsky
+
+Year: 1956
+Cincinnati: Ernst K. Franke
+Colorado: George Gamow
+Pennsylvania: Thomas H. Wood
+
+Year: 1957
+Buffalo: Joseph G. Hoffman
+Louisville: Manuel Schwartz
+Michigan: Richard Sands
+Penn State: Harald Schraer
+Utah State: Robert L. Berger
+Wisconsin: John W. Anderegg
+Worcester Poly: Arthur Herschman
+
+Year: 1958
+Brown: Wesley Nyborg
+Vanderbilt: Paul Latimer
+West Virginia: Harvey Rexroad
+
+Year: 1959
+Arizona: Ralph W.G. Wyckoff
+Harvard: Walter Gilbert
+Illinois Tech: Leonard I. Grossweiner
+
+Year: 1960
+Auburn: Anton N.J. Heyn
+BYU: William E. Dibble
+Houston: Royal Eugene Collins
+Missouri: Paul W. Schmidt
+Syracuse: Charles H. Bachman
+Vermont: Wesley Nyborg
+
+Year: 1961
+Michigan: C. Roy Worthington
+
+Year: 1962
+Auburn: Paul Latimer
+Delaware: John W. Preiss
+UC Berkeley: Donald Glaser
+Western Reserve: Joseph W. Weinberg
+
+Year: 1963
+Cornell: Alan J. Bearden
+Dartmouth: Joseph D. Harris
+Kansas State: Karl G. Lark
+NYU: Morris Shamos
+RPI: J. Lawrence Katz
+Texas A&M: O.D. Sittler
+Wake Forest: Howard W. Shields
+
+Year: 1964
+Chicago: Albert V. Crewe
+Florida State: Grace C. Moulton
+Oklahoma State: Herbert Pohl
+Portland State: Kwan Hsu
+UCSD: George Feher
+Vanderbilt: P.  Galen Lenhert
+Virginia: Rogers C. Ritter
+
+Year: 1965
+Alabama: Ichiro Miyagawa
+Connecticut: Robert Schor
+New Mexico St.: Alan van Heuvelen
+UC Riverside: Leon J. Bruner, Michael Pollak
+UC Santa Cruz: Ronald Ruby
+
+Year: 1966
+Emory: Peter Fong
+Illinois: Hans Frauenfelder, Peter Debrunner
+Nebraska: Robert Katz
+Rochester: Elliott Montroll, Narendra Goel
+
+Year: 1967
+MIT: George Benedek
+Princeton: George T. Reynolds
+Rochester: Robert S. Knox
+Syracuse: Eric M. Harth
+
+Year: 1968
+Alabama: Chester Alexander, Jr.
+Colorado: Leonard Finegold, Paul E. Phillipson
+Georgia Tech: Augustus Stanford, Jr.
+Kent State: Anthony Silvidi
+N. Dakota State: James C. Glass
+
+Year: 1969
+Brandeis: Robert V. Lange
+CCNY: Oscar Lumpkin, Jr.
+CMU: William T. Oosterhuis
+Massachusetts: Norman C. Ford, Jr.
+Minnesota: Russell K. Hobbie
+Oregon: Brian W. Matthews
+Pennsylvania: Roger Walmsley
+Stevens: I. Richard Lapidus
+Wyoming: Jean-Pierre Biscar
+
+Year: 1970
+Arizona: Rein Kilkson
+Brown: Leon Cooper
+CCNY: Robert H. Callender
+Chicago: Morrel Cohen
+Clemson: Burt V. Bronk
+CMU: John Nagle
+Columbia: Chien-Shiung Wu
+Delaware: Mark Sharnoff
+Michigan: C. Mahalingam Venkatachalam
+MIT: H. Eugene Stanely, Malcom W.P. Strandberg
+Princeton: John Hopfield
+Rice: Harold E. Rorschach, Jr.
+UC Davis: James Hurley
+Virginia Tech: Richard A. Arndt, L. David Roper
+
+Year: 1971
+Albany: Tara Prasad Das
+Connecticut: Otis R. Gilliam
+Drexel: Haywood Blum
+NYU: Sam Williamson
+Oakland: Abraham R. Liboff
+Portland State: Gertrude Rempfer
+Rutgers-Camden: L. John Gagliardi
+Virginia: Robert V. Coleman
+Virginia Tech: Silverio P. Almeida
+
+Year: 1972
+Brandeis: Alfred G. Redfield, Donald L.D. Caspar
+Clemson: Lyndon L. Larcom
+Georgia Tech: Ronald F. Fox
+Illinois: Laura Eisenstein
+Kansas: Robert C. Bearse
+Kansas State: Thomas R. Manney
+Lehigh: Brent Benson
+Maine: James Rooney
+RPI: Richard A. Harper
+UCSD: Nguyen-Huu Xuong
+
+Year: 1973
+Chicago: Michael Isaacson
+Drexel: Gerald Rosen
+Illinois-Chicago: Ram R. Sharma
+Lehigh: Jeffrey A. Sands
+Michigan State: Frank J. Blatt
+Minnesota: John H. Broadhurst
+New Mexico: Seymour S. Alpert
+Penn State: George Lang
+Purdue: Earl W. Prohofsky
+Rice: Huey W. Huang
+Virginia: James S. Trefil, Arthur S. Brill
+
+Year: 1974
+Arizona: John O. Kessler
+Caltech: George Zweig
+Florida: Henri van Rinsvelt
+Georgia Tech: Roger Wartell
+Oklahoma State: H. Larry Scott
+Portland State: Pavel Smejtek
+Stevens: Ralph Schiller
+Stony Brook: Peter Kahn
+Tennessee: Solon Georghiou
+UC Irvine: Gordon L. Shaw
+UCSD: Oscar J. Lumpkin, Jr.
+
+Year: 1975
+Albany: Charles P. Scholes
+Boston U: H. Eugene Stanley
+Buffalo: John T. Ho
+CCNY: Robert R. Alfano
+Chicago: Ricardo Levi-Setti
+Drexel: Leonard Finegold, James McCray
+Illinois: Harvey J. Stapleton
+Kent State: Edward Gelerinter
+MIT: Toyoichi Tanaka
+Oklahoma State: William J. Leivo
+Portland State: Arnold D. Pickar
+Princeton: James Milch
+Stanford: Seb Doniach
+UCSB: David S. Cannell
+Washington U: James G. Miller
+
+Year: 1976
+Arizona: William S. Bickel
+Boston U: Ken Rothschild
+Buffalo: Edmund P. Day
+Georgetown: George I. Malinin
+Massachusetts: Kenneth H.  Langley
+Michigan State: Gerald L. Pollack
+Oakland: Norman Tepley
+Purdue: Lonnie Van Zandt, Gianni Ascarelli
+Stony Brook: Janos Kirz
+Tufts: David L. Weaver
+UCSB: Virgil Elings, David Nicoli
+
+Year: 1977
+Case Western: David E. Farrell
+Massachusetts: Kandula S.R. Sastry
+Michigan: Daniel Axelrod
+Oklahoma State: Paul Westhaus, H. James Harmon
+RPI: Marvin W. Johnson
+Vanderbilt: John P. Barach, John P. Wikswo
+
+Year: 1978
+UAB: John H. Young
+George Mason: Eugenia V. Mielczarek
+Illinois: Enrico Gratton
+Princeton: Sol M. Gruner
+
+Year: 1979
+Boston U: Armand Siegel
+Clarkson: Brian A. Pethica
+GSU: William H. Nelson
+N. Dakota State: Charles Sawicki
+Princeton: Robert Austin
+Stevens: Tim R. Hart
+Vermont: Kevork Spartalian
+
+Year: 1980
+UAB: James C. Martin
+Arizona: Theodore Bowen, Douglas J. Donahue
+Boston U: Rama Bansil
+Caltech: Jerome Pine
+Georgia Tech: Ray Young
+Illinois-Chicago: Antonio Pagnamenta
+Indiana/Purdue: Marvin D. Kemple, B.D. Nageswara Rao
+North Dakota: Glenn Lykken
+South Carolina: Horacio Farach, Charles P. Poole
+Syracuse: Edward D. Lipson
+Toledo: Scott A. Lee
+
+Year: 1981
+Drexel: Frank Ferrone
+Illinois Tech: Leonard J.  Lis
+Purdue: Arnold Tubis
+
+Year: 1982
+Brown: Charles Elbaum
+Emory: Boi Hanh Huynh
+Penn State: Reinhard Graetzer
+Portland State: Jonathan Abramson
+
+Year: 1983
+Boston U: Bernard Chasan
+Drexel: Marilyn Bishop
+Florida: E. Raymond Andrew
+Illinois Tech: James W. Longworth
+Indiana/Purdue: Robert M. Pearlstein
+Kent State: Leonard J. Lis
+Marquette: Joseph M. Collins
+Oregon: Harlan W. Lefevre
+Princeton: Daniel Stein
+Stanford: Robert Hofstadter
+
+Year: 1984
+Arizona State: Stuart M. Lindsay
+Florida Int U: Richard A. Bone
+Northeastern: Lou Reinisch, Paul Champion
+Syracuse: Kenneth W. Foster
+Texas San Antonio: Dhiraj Sardar
+UCSD: Melvin Okamura, Don Fredkin
+
+Year: 1985
+Cincinnati: Robert J. Endorf
+Emory: Kwok To Yue
+Florida Int U: Bernard S. Gerstman
+Indiana/Purdue: Stephen R. Wassall
+Oregon: George Rayfield, S. James Remington
+RPI: Charles P. Bean
+Tulane: Wayne Reed
+UC Riverside: Frederick Cummings
+
+Year: 1986
+Albany: Carolyn MacDonald
+Georgia Tech: Tai-Huang Huang
+MIT: Michael S. Feld
+Northeastern: Timothy Sage
+Pittsburgh: Irving J. Lowe
+Princeton: Shyamsunder Erramilli
+UC Berkeley: William Bialek
+UC Santa Cruz: Joshua M. Deutsch
+Vanderbilt: Glenn S. Edwards
+VCU: Marilyn F. Bishop
+
+Year: 1987
+Arizona: Daniel L. Stein
+Arizona State: Robert F. Marzke
+Brandeis: Laurence Abbott
+Case Western: Robert W. Brown, William Tobocman
+Mississippi: Mumtaz A. Dinno
+Northeastern: Jeffrey B. Sokoloff
+Utah: David C. Ailion
+Wake Forest: George Holzwarth
+
+Year: 1988
+Boston U: Lee Makowski
+Catholic U: Theodore A. Litovitz, Charles Montrose
+Clarkson: Gabor Forgacs
+Illinois: Klaus Schulten
+Lehigh: Daniel Ou-Yang
+RPI: Ivar Giaever
+Texas Tech: Kwan Hon Cheng
+UC Berkeley: Rainer K. Sachs
+UCSB: Paul Hansma
+
+Year: 1989
+North Texas: Bruce J. West
+Purdue: David D. Nolte
+Texas Dallas: Roy Chaney
+
+Year: 1990
+UAB: Thomas M. Nordlund
+Brandeis: Seth Fraden
+Emory: Edmund P. Day
+Florida State: David van Winkle
+Geo. Washington: Barry L. Berman
+Missouri-St Louis: Frank Moss
+Notre Dame: James Glazier
+Stanford: Steven Chu
+Tennessee: Lloyd M. Davis
+UCLA: Robijn Bruinsma
+UCSD: José Onuchic
+Yale: Robert K. Adair
+
+Year: 1991
+Case Western: Michael Martens
+Princeton: Albert Libchaber, Ray Goldstein
+Rochester: Thomas H. Foster
+UC Berkeley: Daniel Chemla
+
+Year: 1992
+UAB: Joseph G. Harrison
+CCNY: Marilyn R. Gunner
+Cornell: Eric Siggia
+Illinois: G. Uli Nienhaus
+Michigan: Christoph Schmidt
+MIT: Mehran Kardar
+Montana State: Recep Avci
+Pennsylvania: Philip Nelson
+Princeton: Stanislas Leibler
+UCSD: Herbert Levine
+Vermont: Junru Wu
+
+Year: 1993
+Clarkson: Daniel ben-Avraham
+Illinois-Chicago: Anjum Ansari
+UMass - Boston: D.V.G.L.N. Rao
+Northeastern: Alain Karma
+Stanford: H. Alan Schwettman
+UCSB: Phil Pincus
+Wesleyan: Roderick V. Jensen
+
+Year: 1994
+Georgia Tech: William Ditto
+Michigan: Frederick Becchetti
+North Texas: Paolo Grigolini
+Texas San Antonio: Liao Chen
+UC Irvine: Mark Mandelkern
+Vermont: Jie Yang
+West Virginia: Leonardo Golubovic
+
+Year: 1995
+Arizona State: Otto Sankey
+Boston U: Shyamsunder Erramilli
+Brandeis: Xiao-Jing Wang
+Central Florida: Alfons Schulte
+Connecticut: Cynthia W. Peterson
+Duke: Henry S. Greenside
+Emory: Kurt Warncke
+Illinois: Yoshitsugu Oono
+Oregon: John Toner
+Pennsylvania: Arjun Yodh
+Penn State: Jayanth Banavar
+USF: Myung-Keung Kim
+Vanderbilt: Bradley John Roth
+Washington U: Mark S. Conradi
+
+Year: 1996
+Arizona: Ray Goldstein
+Cornell: Robert Thorne
+Georgetown: Jeff Urbach
+Illinois-Chicago: John Marko
+Illinois Tech: Leroy Dean Chapman
+North Carolina: Richard Superfine
+Northeastern: Ronald Aaron, Carl Shiffman
+Texas: Josef Kas
+UCSD: Terrence Hwa, David Kleinfeld
+Wake Forest: Daniel Kim-Shapiro
+
+Year: 1997
+Brown: James Valles
+Clemson: Huabei Jiang
+Cornell: Sol Gruner
+Illinois-Chicago: Grant Bunker
+Northeastern: Jorge Jose
+Northwestern: Sara Solla
+Ohio: Peter Jung
+Oklahoma State: Aihua Xie
+Rochester: Jianhui Zhong
+UC Davis: Daniel L. Cox
+UCLA: Joseph Rudnick
+UW-Milwaukee: Carol Hirschmugl
+
+Year: 1998
+Dartmouth: Mary-Ann Mycek
+Drexel: Huan-Xiang Zhou
+George Mason: Paul So, Ernest Barreto
+Illinois: Robert M. Clegg, Paul Selvin
+Michigan Tech: Ulrich H.E. Hansmann
+New Hampshire: F. William Hersman
+Oakland: Bradley John Roth
+UC Berkeley: Daniel Rokhsar, Carlos Bustamante
+Washington U: Anders Carlsson
+Worcester Poly: Germano Ianacchione
+
+Year: 1999
+Cornell: Michelle Wang
+Drexel: Jian-Min Yuan
+Duke: Glenn S. Edwards
+Florida: Stephen Hagen
+Florida Atlantic: Yi-Kuo Yu
+Indiana: Jay X Tang
+Minnesota: Alexander Y. Grosberg
+Missouri: Gabor Forgacs
+Nevada - Reno: Reinhard Bruch
+New Mexico: Kevin E. Cahill
+Purdue: Stephen Durbin
+Stanford: Steven Block
+Vermont: Kelvin Chu
+U Washington: Michael Schick
+Wisconsin: Pupa Gilbert
+
+Year: 2000
+Arizona: Koen Visscher
+Brandeis: Jané Kondev
+Buffalo: Andrea Markelz
+BYU: Robert Davis
+Central Florida: Aniket Bhattacharya
+Chicago: Phillippe Cluzel
+Emory: Keith Berland
+Florida Atlantic: Theodora Leventouri
+GSU: Gary Hastings
+Harvard: Mara Prentiss
+Houston: John H. Miller, Jr.
+Illinois: Taekjip Ha
+Illinois Tech: H. Larry Scott
+Lehigh: James Gunton
+Minnesota: Boris Shklovskii
+Missouri: Shi-Jie Chen
+MIT: Alexander van Oudenaarden
+New Mexico: Vasudev M. Kenkre
+N. Carolina State: Celeste Sagui
+Ohio State: Charles H. Pennington
+Pennsylvania: Vijay Balasubramanian, Mark Goulian, Robert Hollebeek
+Princeton: Lydia Sohn
+Stony Brook: Chris Jacobsen
+Temple: Edward T. Gawlinski
+Texas Tech: Juyang Huang
+UC Davis: Rajiv Singh
+UCLA: Giovanni Zocchi, George Gruner
+UCSB: Deborah Fygenson
+Washington U: Ralf Wessel
+
+Year: 2001
+Arizona State: Peter Rez
+Cornell: Eberhard Bodenschatz
+Drexel: Guoliang Yang
+Geo. Washington: Chen Zeng
+Harvard: David Weitz
+LSU: Erno Sajo, Kenneth Matthews, II
+Maine: Dean Astumian
+Michigan: Alexei Tkachenko, Jens-Christian Meiners, Michael Zochowski
+Missouri: Ioan Kosztin
+Northeastern: Mark C. Williams
+Northern Illinois: Laurence Lurio
+Ohio: David F.J. Tees
+Ohio State: Ralf Bundschuh
+Oregon: Heiner Linke
+Princeton: William Bialek
+Purdue: Jorge H. Rodriguez
+Rice: Jason Hafner
+UCSB: Jean Carlson
+Wake Forest: Martin Guthold
+Yale: Simon Mochrie
+
+Year: 2002
+Arizona State: Timothy Newman
+Arkansas: Jiali Li
+Florida State: Huan-Xiang Zhou
+Georgia: Heinz-Bern Schuttler
+Indiana: James A. Glazier
+Memphis: Mohamed Laradji
+Missouri - KC: Wai-Yim Ching
+Montana State: Aleksander Rebane
+North Carolina: Paul Tiesinga, Otto Zhou, Jianping Lu
+Ohio: Alexander Neiman
+Ohio State: Ciriyam Jayaprakash, Dongping Zhong
+Penn State: Dezhe Jin
+Purdue: Sergei Savikhin
+Rice: Ching-Hwa Kiang
+Rutgers: Boris Shraiman, Arnivan Sengupta
+Texas A&M: Alexei Sokolov
+UCSD: Douglas E. Smith
+USF: Wei Chen
+Wake Forest: Freddie Salsbury, Jr.
+
+Year: 2003
+Arizona State: Michael Thorpe
+Brown: Jay X Tang
+Clark: Ranjan Mukhopadhyay
+Clemson: Pu Chun Ke
+Harvard: Aravinthan Samuel, Daniel Fisher
+Indiana: Rob de Ruyter van Steveninck, John M. Beggs
+Missouri: Ping Yu
+New Mexico: James L. Thomas
+Ohio: Ido Braslavsky
+Princeton: Curtis Callan, Jr
+Rochester Tech: George Thurston
+Texas: Ernst-Ludwig Florin
+UC Davis: Xiangdong Zhu
+UC Irvine: Thorsten Ritz
+UCSB: Everett A. Lipman
+UC Santa Cruz: Alexander Sher
+Vanderbilt: Shane Hutson
+Virginia Tech: Uwe Tauber
+
+Year: 2004
+Boise State: Byung I. Kim
+Florida Atlantic: Andy W.C. Lau
+Geo. Washington: Weiqun Peng
+Georgia: Susanne Ullrich
+GSU: Gennady Cymbalyuk
+Illinois: Nigel Goldenfeld
+Indiana: Sima Setayeshgar
+Johns Hopkins: Daniel H. Reich
+LSU: Kenneth R. Hogstrom
+Maryland: Wolfgang Losert
+Michigan State: Lisa Lapidus
+Missouri-St Louis: Sonya Bahar
+MIT: Sebastian Seung
+N. Carolina State: Keith Weninger
+Northeastern: Armen Stepanyants
+Pennsylvania: Andrea Liu
+Rhode Island: Yana Reshetnyak
+Rutgers: Andrei Ruckenstein
+Syracuse: M. Cristina Marchetti, Liviu Movileanu
+UCLA: Jianwei Miao
+UCSB: Boris Shraiman
+USF: Chun-Min Lo
+Utah State: David Peak
+Virginia Tech: Rahul Kulkarni
+U Washington: Jens Gundlach
+UW-Milwaukee: Valerica Raicu
+
+Year: 2005
+Arizona State: Kong-Thon Tsen
+Buffalo: Jorge Jose
+Clemson: Emil Alexov
+CMU: Mathias Losche
+Colorado: Meredith Betterton
+Cornell: Itai Cohen
+Duke: Calvin R. Howell
+Emory: Ivan Rasnik, Laura Finzi
+Florida: Mark W. Meisel
+Florida State: Linda S. Hirst
+George Mason: John R. Cressman
+Harvard: David Nelson
+Illinois: Aleksei Aksimentiev
+Illinois-Chicago: Mark Schlossman
+Indiana/Purdue: Horia Petrache
+Kent State: David Allender
+Maine: C. Thomas Hess
+Michigan: Jennifer Ogilvie
+Minnesota: Vincent Noireaux, Joachim Mueller
+N. Carolina State: Jerry Bernholc, Christopher Roland
+Ohio State: Klaus Honscheid
+Oklahoma State: Eric Benton
+Penn State: Reka Albert
+Purdue: Ken Ritchie
+RPI: Angel E. Garcia
+Rhode Island: Oleg Andreev
+Syracuse: Jennifer Schwarz
+UC Irvine: Zuzanna Siwy
+UCLA: Dolores Bozovic
+UCSD: Alexander Groisman
+USF: Garrett Matthews, Martin Muschol
+Wake Forest: Keith Bonin
+UW-Milwaukee: Abbas Ourmazd
+West Virginia: David Lederman
+
+Year: 2006
+Arizona State: Banu Ozkan, Dimitry Matyushov
+Brown: Derek Stein
+Buffalo: Arnd Pralle, Wenjun Zheng
+Cornell: Carl Franck
+Florida Int U: Prem Chapagain
+Geo. Washington: Guanyu Wang
+Georgia: Qun Zhao
+GSU: Mukeshwar Dhamala
+Houston: Margaret Cheung
+Idaho: F. Marty Ytreberg
+Kansas: Christopher Fischer
+Lehigh: Dimitrios Vavylonis
+Maryland: Arthur La Porta, Arpita Upadhyaya
+Miami: Neil F. Johnson
+Michigan: David Lubensky
+New Mexico: Steven Koch
+N. Carolina State: Robert Riehn
+Northwestern: John Marko
+Oregon: Raghuveer Parthasarathy
+Penn State: Alexay Kozhevnikov
+Pittsburgh: Xiao-Lun Wu
+Rutgers: Gyan Bhanot
+UC Irvine: Clare Yu
+UC Merced: Ajay Gopinathan
+UC Riverside: Umar Mohideen
+Virginia: Gordon Cates
+Wake Forest: Jed Macosko
+Washington U: Yan Mei Wang
+
+Year: 2007
+Brandeis: Zvonimir Dogic, Michael Hagan
+CCNY: Ronald Koder
+Chicago: Margaret Gardel
+CMU: Markus Deserno
+Georgia Tech: Daniel Goldman, Jennifer Curtis, Toan Nguyen
+Hunter College: Noel L. Goddard
+Illinois: Yann Chemla, Ido Golding
+Illinois Tech: David Gidalevitz
+Kent State: John Portman
+LSU: Polad Shikhaliev
+Maryland: Michelle Girvan
+Massachusetts: Jennifer Ross
+Michigan Tech: Ravindra Pandey
+Missouri: Xiaoqin Zou
+New Mexico: Keith Lidke
+Pennsylvania: A.T. Charlie Johnson
+Princeton: Joshua Shaevitz
+Rutgers: Alexandre Morozov
+Texas: George Shubeita
+UC Berkeley: Michael DeWeese
+UC Riverside: Roya Zandi
+USF: Sagar Pandit
+U Washington: Larry B. Sorenson
+UW-Milwaukee: Marius Schmidt
+
+Year: 2008
+UAB: Xujing Wang
+Arizona State: Robert Ros, Sara Vaiana
+Brown: Xinsheng Ling
+Catholic U: Abhijit Sarkar
+Central Florida: Suren Tatulian
+Clarkson: Maria Gracheva
+Denver: Kingshuk Ghosh
+Drexel: Luis Cruz Cruz, Brigita Urbanc
+Georgetown: Rhonda Dzakpasu
+Iowa State: Sanjeevi Sivasankar
+Kansas State: Robert Szoszkiewicz
+Northeastern: Srinivas Sridhar
+NYU: Alexander Grosberg
+Ohio State: Michael Poirier, Ratnasingham Sooryakumar
+Oklahoma State: Donghua Zhou
+Purdue: Yulia Pushkar
+Syracuse: Martin B. Forstner
+UC Berkeley: Ahmet Yildiz
+UCLA: Katsushi Arisaka
+UC Merced: Linda Hirst
+UCSD: Olga K. Dudko
+
+Year: 2009
+Chicago: David Biron
+Cincinnati: Andrei Kogan
+CMU: Alex Evilevitch
+Denver: Dinah Loerke
+Emory: Ilya Nemenman
+Harvard: Erel Levine
+Kent State: Hamza Balci
+Massachusetts: Lori Goldner, V. Adrian Parsegian
+North Carolina: Amy Oldenburg
+NYU: Jasna Brujic
+Princeton: Thomas Gregor
+Purdue: Brian A. Todd
+Texas A&M: Winfried Teizer
+Texas Arlington: Wei Chen
+Texas San Antonio: Xomalin Peralta
+Tufts: Christian Staii
+USC: Mohamed El-Naggar
+
+Year: 2010
+Akron: Jutta Luettmer-Strathmann
+Binghamton: Steven L. Levy
+Boston U: Pankaj Mehta
+Brandeis: Aparna Baskaran
+CCNY: Hernan Makse
+Geo. Washington: Xiangyun Qiu
+Indiana: Jorge Jose
+UMass - Boston: Chandra Yelleswarapu
+Missouri: Gavin King
+MIT: Jeff Gore
+Pittsburgh: Hanna Salman
+Texas: Vernita Gordon
+Texas Dallas: Jason Slinker
+Texas San Antonio: Lorenzo Bancaleon, Kelly Nash, Marcelo Marucho
+UCLA: Mayank Mehta
+Utah: Michael Vershinin, Saveez Saffarian
+Wake Forest: Samuel Cho
+U Washington: Paul A. Wiggins
+
+Year: 2011
+Boise State: Daniel Fologea
+Brown: Thomas R. Powers
+Central Florida: Bo Chen
+Cornell: Z. Jane Wang
+Delaware: Edward Lyman
+Florida Int U: Jin He
+Houston: Mini Das, Pei-Herng Hor
+Hunter College: Hyungsik Lim
+Kansas State: Bret N. Flanders, Jeremy Schmit
+Maryland: Jayanth Banavar
+UMass - Boston: Jonathan Celli
+MIT: Jeremy England
+N. Carolina State: Hong Wang
+Northeastern: Meni Wanunu
+Notre Dame: Steven Ruggiero, Carol Tanner
+Oregon State: Michael Zwolak
+Rice: José Onuchic, Herbert Levine
+Rutgers-Camden: Grace Brannigan
+Syracuse: Lisa Manning
+Tennessee: Jaan Mannik
+Texas Arlington: Samarendra Kumar Mohanty
+Virginia Tech: Michel Pleimling
+UW-Milwaukee: Ahmad Hosseinizadeh
+
+Year: 2012
+Albany: Keith Earle
+Arizona: Charles W. Wolgemuth
+Arizona State: Oliver Beckstein
+Arkansas: Woodrow Shew
+Catholic U: Ian Pegg
+Clemson: Feng Ding
+Colorado: Loren Hough
+Geo. Washington: Ganhui Lan, Mark Reeves
+Georgia Tech: Harold Kim
+Houston: Kevin Bassler
+Illinois: Thomas E. Kuhlman
+Indiana/Purdue: Fangqiang Zhu
+Kent State: Elizabeth Mann
+UMass - Boston: Rahul Kulkarni
+Michigan State: Matthew Comstock, Carlo Piermarocchi
+North Carolina: Rosa Tamara Branca
+Northeastern: Paul C. Whitford
+Ohio State: Kural Comert
+Pennsylvania: Alison Sweeney
+Rochester Tech: Moumita Das
+Stony Brook: Ken Dill
+Texas Christian: Hana Dobrovolny
+UC Berkeley: Oskar Hallatschek
+UC Irvine: Philip G. Collins
+UCSD: Suckjoon Jun
+USC: Christoph Haselwandter
+VCU: Joseph Reiner
+Wesleyan: Francis Starr
+
+Year: 2013
+Arizona State: Quan Qing
+Arkansas: Pradeep Kumar
+Boise State: Matthew Lee Ferguson
+Boston U: Kirill Korolev
+Clarkson: Jan Scrimgeour
+Clemson: Emre Takacs
+Georgia Tech: Flavio Fenton, JC Gumbart
+Illinois: Seppe Kuehn
+Illinois Tech: Jeff Wereszczynski
+Indiana/Purdue: Steve Pressé
+LSU: Guang Jia
+Massachusetts: Anthony Dinsmore
+Miami: Chaoming Song, Sheyum Syed
+Michigan: Kevin Wood
+NYU: Marc Gershow
+Oregon State: Bo Sun, Weihong Qiu
+UC Irvine: Jun Allard
+UCSD: Massimo Vergassola
+USF: Jianjun Pan, Ghanim Ullah
+Worcester Poly: Qi Wen
+
+Year: 2014
+Arizona State: Richard Kirian
+Case Western: Michael Hinczewski
+Clemson: Hugo Sanabria, Ramakrishna Podila
+Colorado School of Mines: Susanta Sarkar
+Emory: Minsu Kim
+Georgia Tech: Simon Sponberg
+Howard: James Lindesay
+Illinois: Jun Song
+Illinois-Chicago: Fatemeh Khalili-Araghi
+LSU: Rui Zhang, Wayne Newhauser, Joyoni Dey
+Minnesota: Elias Puchner
+MIT: Ibrahim Cissè
+Northwestern: David Schwab
+Notre Dame: Dervis Can Vural
+NYU: Alexandra Zidovska
+Oregon: Tristan Ursell
+Purdue: Andrew Mugler
+Texas Arlington: Mingwu Jin
+Texas Dallas: Lloyd Lumata
+Texas San Antonio: Kathryn Mayer
+USC: James Boedicker
+VCU: Jason Reed
+UW-Milwaukee: Peter Schwander
+
+Year: 2015
+Emory: Daniel Weissman
+Houston: Wu-Pei Su
+Idaho: Andreas Vasdekis
+Miami: Mason Klein
+MIT: Nitka Fakhri
+Northeastern: Bryan Spring
+Oregon: Richard Taylor
+Pennsylvania: Eleni Katifori
+UC Berkeley: Hernan Garcia
+UC Merced: Bin Liu
+Wesleyan: Candice Etson
+UW-Milwaukee: Ionel Popa
+
+Year: 2016
+Arizona State: Rizal Hariadi
+Arkansas: Yong Wang
+Brandeis: W. Benjamin Rogers
+Chicago: Arvind Murugan
+Kent State: Samuel Sprunt
+Lehigh: Aurelia Honerkamp-Smith
+Princeton: Andrew Leifer
+Purdue: Srividya Iyer-Biswas
+Texas Christian: Zygmunt Gryczynski
+UCSB: Sebastian Streichan
+Vermont: Juan Vanegas
+
+Year: 2017
+Arizona State: Steve Pressé
+Boston U: Maria Kamenetska
+Buffalo: Priya Banerjee
+Georgia Tech: Peter Yunker
+Houston: Greg Morrison
+Illinois-Chicago: Huan-Xiang Zhou
+Indiana/Purdue: Jing Liu
+Johns Hopkins: Brian Camley
+N. Carolina State: Mary Elting
+Northeastern: Vivek Venkatachalam, Dapeng Bi
+Oregon: Jayanth Banavar
+Texas Arlington: Yujie Chi
+Texas Christian: Anton Naumov
+UC Irvine: Albert Siryaporn
+UCSB: Zvonimir Dogic
+Washington U: Shankar Mukherji
+Worcester Poly: Kun-Ta Wu
+
+Year: 2018
+Clark: Alexander Petroff
+Hunter College: Min Xu
+Johns Hopkins: Daniel Beller
+N. Carolina State: Julio Belmonte
+Oregon: Jayson Paulose
+Syracuse: Alison Patteson
+Texas Arlington: Amir Shahmoradi
+UC Merced: Kinjal Dasbiswas
+UC Riverside: Thomas E. Kuhlman
+UCSB: M. Cristina Marchetti
+UCSD: Elena Koslover
+USC: Rosa Di Felice
+Virginia Tech: Rana Ashkar
+U Washington: Armita Nourmohammad
+Washington U: Mikhail Tikhonov
+Yale: Benjamin Machta
+
+Year: 2019
+Arizona State: Douglas Shepherd
+Auburn: Michael Gramlich
+Boise State: Laxman Mainali
+Brandeis: Guillaume Duclos
+BYU: Dennis Della Corte
+Case Western: Lydia Kisley
+CMU: Shiladitya Banerjee
+Florida: BingKan Xue
+Florida Atlantic: Wazir Muhammad
+Illinois: Ido Golding, Sangjin Kim
+Kent State: Thorsten-Lars Schmidt
+LSU: Jeffery Chancellor
+Northeastern: Herbert Levine, Michele Di Pierro
+Texas: José Alvarado
+UC Irvine: Jin Yu
+
+Year: 2020
+Auburn: Rafael Bernardi
+Boston U: Joseph Larkin
+Florida: Juan Guan
+Illinois-Chicago: Jan Hendik Spille
+Miami: Vivek Prakash
+N. Carolina State: Sharonda LeBlanc
+Pittsburgh: Andrew Mugler
+Rochester Tech: Lishibanya Mohapatra
+Syracuse: Jennifer Ross
+Toledo: Aniruddha Ray
+UCSD: Mattia Serra
+VCU: Daeha Joung
+Wisconsin: Uwe Bergmann
+
+Year: 2021
+CMU: Fanwei Si
+Johns Hopkins: Yaojun Zhang
+UMass - Boston: Sumientra Rampersad
+Missouri: Maria Mills
+New Mexico: Tonmoy Chakraborty
+Pennsylvania: Arnold Mathijssen
+Rice: Evelyn Tang
+Syracuse: Mirna Skanata
+Texas Dallas: Andres Cisneros
+UCSD: Nigel Goldenfeld
+USC: Peter Chung
+Virginia Tech: C. Nadir Kaplan
+VCU: Richard Joh
+
+Year: 2022
+Brandeis: Hannah Yevick
+Chicago: Elizabeth Jerison
+Emory: Jennifer Rieser
+MIT: Julien Tailleur
+
+Year: 2023
+Georgia Tech: Audrey Sederberg
+Missouri: Keith Cassidy
+N. Carolina State: Xingchen Lin
+NYU: Sarah Kostinski
+Purdue: Jing Liu
+UCSD: Seungeun Oh, Tzer Han Tan
+USC: Peter Foster
+Vermont: Haicen Yue
+
+Year: 2024
+Clemson: Laura Finzi
+Maryland: Maria Mukhina
+Michigan: Suraj Shankar
+

@@ -1,0 +1,893 @@
+,name,start,end,institutions,continuous,active_tenure,total_span,completed
+0,A.T. Charlie Johnson,2007,2024,['Pennsylvania'],True,17,17,False
+1,Abbas Ourmazd,2005,2024,['UW-Milwaukee'],True,19,19,False
+2,Abhijit Sarkar,2008,2024,['Catholic U'],True,16,16,False
+3,Abraham R. Liboff,1971,2019,['Oakland'],True,48,48,True
+4,Ahmad Hosseinizadeh,2011,2024,['UW-Milwaukee'],True,13,13,False
+5,Ahmet Yildiz,2008,2024,['UC Berkeley'],True,16,16,False
+6,Aihua Xie,1997,2024,['Oklahoma State'],True,27,27,False
+7,Ajay Gopinathan,2006,2024,['UC Merced'],True,18,18,False
+8,Alain Karma,1993,2024,['Northeastern'],True,31,31,False
+9,Alan J. Bearden,1963,1966,['Cornell'],True,3,3,True
+10,Alan van Heuvelen,1965,1988,['New Mexico St.'],True,23,23,True
+11,Albert Libchaber,1991,1993,['Princeton'],True,2,2,True
+12,Albert Siryaporn,2017,2024,['UC Irvine'],True,7,7,False
+13,Albert V. Crewe,1964,1992,['Chicago'],True,28,28,True
+14,Aleksander Rebane,2002,2024,['Montana State'],True,22,22,False
+15,Aleksei Aksimentiev,2005,2024,['Illinois'],True,19,19,False
+16,Alex Evilevitch,2009,2015,['CMU'],True,6,6,True
+17,Alexander Goetz,1937,1956,['Caltech'],True,19,19,True
+18,Alexander Groisman,2005,2024,['UCSD'],True,19,19,False
+19,Alexander Grosberg,2008,2024,['NYU'],True,16,16,False
+20,Alexander Kolin,1946,1955,['Chicago'],True,9,9,True
+21,Alexander Neiman,2002,2024,['Ohio'],True,22,22,False
+22,Alexander Petroff,2018,2024,['Clark'],True,6,6,False
+23,Alexander Sher,2003,2024,['UC Santa Cruz'],True,21,21,False
+24,Alexander Y. Grosberg,1999,2007,['Minnesota'],True,8,8,True
+25,Alexander van Oudenaarden,2000,2013,['MIT'],True,13,13,True
+26,Alexandra Zidovska,2014,2024,['NYU'],True,10,10,False
+27,Alexandre Morozov,2007,2024,['Rutgers'],True,17,17,False
+28,Alexay Kozhevnikov,2006,2013,['Penn State'],True,7,7,True
+29,Alexei Sokolov,2002,2024,['Texas A&M'],True,22,22,False
+30,Alexei Tkachenko,2001,2008,['Michigan'],True,7,7,True
+31,Alfons Schulte,1995,2024,['Central Florida'],True,29,29,False
+32,Alfred G. Redfield,1972,2002,['Brandeis'],True,30,30,True
+33,Alison Patteson,2018,2024,['Syracuse'],True,6,6,False
+34,Alison Sweeney,2012,2019,['Pennsylvania'],True,7,7,True
+35,Allen L. King,1944,1950,['Dartmouth'],True,6,6,True
+36,Amir Shahmoradi,2018,2024,['Texas Arlington'],True,6,6,False
+37,Amy Oldenburg,2009,2024,['North Carolina'],True,15,15,False
+38,Anders Carlsson,1998,2024,['Washington U'],True,26,26,False
+39,Andrea Liu,2004,2024,['Pennsylvania'],True,20,20,False
+40,Andrea Markelz,2000,2024,['Buffalo'],True,24,24,False
+41,Andreas Vasdekis,2015,2024,['Idaho'],True,9,9,False
+42,Andrei Kogan,2009,2024,['Cincinnati'],True,15,15,False
+43,Andrei Ruckenstein,2004,2006,['Rutgers'],True,2,2,True
+44,Andres Cisneros,2021,2024,['Texas Dallas'],True,3,3,False
+45,Andrew Leifer,2016,2024,['Princeton'],True,8,8,False
+46,Andrew Mugler,2014,2024,"['Purdue', 'Pittsburgh']",False,9,10,False
+47,Andy W.C. Lau,2004,2024,['Florida Atlantic'],True,20,20,False
+48,Angel E. Garcia,2005,2014,['RPI'],True,9,9,True
+49,Aniket Bhattacharya,2000,2024,['Central Florida'],True,24,24,False
+50,Aniruddha Ray,2020,2024,['Toledo'],True,4,4,False
+51,Anjum Ansari,1993,2024,['Illinois-Chicago'],True,31,31,False
+52,Anthony Dinsmore,2013,2024,['Massachusetts'],True,11,11,False
+53,Anthony Silvidi,1968,1981,['Kent State'],True,13,13,True
+54,Anton N.J. Heyn,1960,1961,['Auburn'],True,1,1,True
+55,Anton Naumov,2017,2024,['Texas Christian'],True,7,7,False
+56,Antonio Pagnamenta,1980,1987,['Illinois-Chicago'],True,7,7,True
+57,Aparna Baskaran,2010,2024,['Brandeis'],True,14,14,False
+58,Aravinthan Samuel,2003,2024,['Harvard'],True,21,21,False
+59,Arjun Yodh,1995,2024,['Pennsylvania'],True,29,29,False
+60,Armand Siegel,1979,1981,['Boston U'],True,2,2,True
+61,Armen Stepanyants,2004,2024,['Northeastern'],True,20,20,False
+62,Armita Nourmohammad,2018,2024,['U Washington'],True,6,6,False
+63,Arnd Pralle,2006,2024,['Buffalo'],True,18,18,False
+64,Arnivan Sengupta,2002,2024,['Rutgers'],True,22,22,False
+65,Arnold D. Pickar,1975,1982,['Portland State'],True,7,7,True
+66,Arnold Mathijssen,2021,2024,['Pennsylvania'],True,3,3,False
+67,Arnold Tubis,1981,2007,['Purdue'],True,26,26,True
+68,Arpita Upadhyaya,2006,2024,['Maryland'],True,18,18,False
+69,Arthur A. Bless,1937,1950,['Florida'],True,13,13,True
+70,Arthur Herschman,1957,1960,['Worcester Poly'],True,3,3,True
+71,Arthur La Porta,2006,2013,['Maryland'],True,7,7,True
+72,Arthur S. Brill,1973,1996,['Virginia'],True,23,23,True
+73,Arvind Murugan,2016,2024,['Chicago'],True,8,8,False
+74,Audrey Sederberg,2023,2024,['Georgia Tech'],True,1,1,False
+75,"Augustus Stanford, Jr.",1968,1972,['Georgia Tech'],True,4,4,True
+76,Aurelia Honerkamp-Smith,2016,2024,['Lehigh'],True,8,8,False
+77,B.D. Nageswara Rao,1980,1999,['Indiana/Purdue'],True,19,19,True
+78,Banu Ozkan,2006,2024,['Arizona State'],True,18,18,False
+79,Barry L. Berman,1990,2009,['Geo. Washington'],True,19,19,True
+80,Benjamin Machta,2018,2024,['Yale'],True,6,6,False
+81,Bernard Chasan,1983,2004,['Boston U'],True,21,21,True
+82,Bernard S. Gerstman,1985,2024,['Florida Int U'],True,39,39,False
+83,Bin Liu,2015,2024,['UC Merced'],True,9,9,False
+84,BingKan Xue,2019,2024,['Florida'],True,5,5,False
+85,Bo Chen,2011,2024,['Central Florida'],True,13,13,False
+86,Bo Sun,2013,2024,['Oregon State'],True,11,11,False
+87,Boi Hanh Huynh,1982,2014,['Emory'],True,32,32,True
+88,Boris Shklovskii,2000,2004,['Minnesota'],True,4,4,True
+89,Boris Shraiman,2002,2024,"['Rutgers', 'UCSB']",False,21,22,False
+90,Bradley John Roth,1995,2019,"['Vanderbilt', 'Oakland']",False,23,24,True
+91,Brent Benson,1972,1980,['Lehigh'],True,8,8,True
+92,Bret N. Flanders,2011,2024,['Kansas State'],True,13,13,False
+93,Brian A. Pethica,1979,1984,['Clarkson'],True,5,5,True
+94,Brian A. Todd,2009,2013,['Purdue'],True,4,4,True
+95,Brian Camley,2017,2024,['Johns Hopkins'],True,7,7,False
+96,Brian W. Matthews,1969,2011,['Oregon'],True,42,42,True
+97,Brigita Urbanc,2008,2024,['Drexel'],True,16,16,False
+98,Bruce J. West,1989,1998,['North Texas'],True,9,9,True
+99,Bryan Spring,2015,2024,['Northeastern'],True,9,9,False
+100,Burt V. Bronk,1970,1983,['Clemson'],True,13,13,True
+101,Byung I. Kim,2004,2024,['Boise State'],True,20,20,False
+102,C. Mahalingam Venkatachalam,1970,1975,['Michigan'],True,5,5,True
+103,C. Nadir Kaplan,2021,2024,['Virginia Tech'],True,3,3,False
+104,C. Roy Worthington,1961,1968,['Michigan'],True,7,7,True
+105,C. Thomas Hess,2005,2024,['Maine'],True,19,19,False
+106,Calvin R. Howell,2005,2013,['Duke'],True,8,8,True
+107,Candice Etson,2015,2020,['Wesleyan'],True,5,5,True
+108,Carl Franck,2006,2024,['Cornell'],True,18,18,False
+109,Carl Shiffman,1996,2006,['Northeastern'],True,10,10,True
+110,Carlo Piermarocchi,2012,2024,['Michigan State'],True,12,12,False
+111,Carlos Bustamante,1998,2024,['UC Berkeley'],True,26,26,False
+112,Carol Hirschmugl,1997,2021,['UW-Milwaukee'],True,24,24,True
+113,Carol Tanner,2011,2021,['Notre Dame'],True,10,10,True
+114,Carolyn MacDonald,1986,2024,['Albany'],True,38,38,False
+115,Celeste Sagui,2000,2024,['N. Carolina State'],True,24,24,False
+116,Chandra Yelleswarapu,2010,2024,['UMass - Boston'],True,14,14,False
+117,Chaoming Song,2013,2024,['Miami'],True,11,11,False
+118,Charles C. Trowbridge,1913,1917,['Columbia'],True,4,4,True
+119,Charles Elbaum,1982,1986,['Brown'],True,4,4,True
+120,Charles H. Bachman,1960,1974,['Syracuse'],True,14,14,True
+121,Charles H. Pennington,2000,2003,['Ohio State'],True,3,3,True
+122,Charles Montrose,1988,1996,['Catholic U'],True,8,8,True
+123,Charles P. Bean,1985,1992,['RPI'],True,7,7,True
+124,Charles P. Poole,1980,1997,['South Carolina'],True,17,17,True
+125,Charles P. Scholes,1975,1989,['Albany'],True,14,14,True
+126,Charles Sawicki,1979,1988,['N. Dakota State'],True,9,9,True
+127,Charles W. Wolgemuth,2012,2024,['Arizona'],True,12,12,False
+128,Chen Zeng,2001,2024,['Geo. Washington'],True,23,23,False
+129,"Chester Alexander, Jr.",1968,1989,['Alabama'],True,21,21,True
+130,Chien-Shiung Wu,1970,1979,['Columbia'],True,9,9,True
+131,Ching-Hwa Kiang,2002,2024,['Rice'],True,22,22,False
+132,Chris Jacobsen,2000,2003,['Stony Brook'],True,3,3,True
+133,Christian Staii,2009,2024,['Tufts'],True,15,15,False
+134,Christoph Haselwandter,2012,2024,['USC'],True,12,12,False
+135,Christoph Schmidt,1992,1998,['Michigan'],True,6,6,True
+136,Christopher Fischer,2006,2024,['Kansas'],True,18,18,False
+137,Christopher Roland,2005,2024,['N. Carolina State'],True,19,19,False
+138,Chun-Min Lo,2004,2008,['USF'],True,4,4,True
+139,Ciriyam Jayaprakash,2002,2024,['Ohio State'],True,22,22,False
+140,Clare Yu,2006,2024,['UC Irvine'],True,18,18,False
+141,"Curtis Callan, Jr",2003,2024,['Princeton'],True,21,21,False
+142,Cynthia W. Peterson,1995,2010,['Connecticut'],True,15,15,True
+143,Cyrus Levinthal,1950,1956,['Michigan'],True,6,6,True
+144,D.V.G.L.N. Rao,1993,2010,['UMass - Boston'],True,17,17,True
+145,Daeha Joung,2020,2024,['VCU'],True,4,4,False
+146,Daniel Axelrod,1977,2024,['Michigan'],True,47,47,False
+147,Daniel Beller,2018,2024,['Johns Hopkins'],True,6,6,False
+148,Daniel Chemla,1991,2007,['UC Berkeley'],True,16,16,True
+149,Daniel Fisher,2003,2006,['Harvard'],True,3,3,True
+150,Daniel Fologea,2011,2024,['Boise State'],True,13,13,False
+151,Daniel Goldman,2007,2024,['Georgia Tech'],True,17,17,False
+152,Daniel H. Reich,2004,2024,['Johns Hopkins'],True,20,20,False
+153,Daniel Kim-Shapiro,1996,2024,['Wake Forest'],True,28,28,False
+154,Daniel L. Cox,1997,2024,['UC Davis'],True,27,27,False
+155,Daniel L. Stein,1987,2004,['Arizona'],True,17,17,True
+156,Daniel Ou-Yang,1988,2024,['Lehigh'],True,36,36,False
+157,Daniel Rokhsar,1998,2001,['UC Berkeley'],True,3,3,True
+158,Daniel Stein,1983,1986,['Princeton'],True,3,3,True
+159,Daniel Weissman,2015,2024,['Emory'],True,9,9,False
+160,Daniel ben-Avraham,1993,2015,['Clarkson'],True,22,22,True
+161,Dapeng Bi,2017,2024,['Northeastern'],True,7,7,False
+162,David Allender,2005,2024,['Kent State'],True,19,19,False
+163,David Biron,2009,2016,['Chicago'],True,7,7,True
+164,David C. Ailion,1987,2001,['Utah'],True,14,14,True
+165,David D. Nolte,1989,2024,['Purdue'],True,35,35,False
+166,David E. Farrell,1977,2006,['Case Western'],True,29,29,True
+167,David F.J. Tees,2001,2024,['Ohio'],True,23,23,False
+168,David Gidalevitz,2007,2024,['Illinois Tech'],True,17,17,False
+169,David Kleinfeld,1996,2024,['UCSD'],True,28,28,False
+170,David L. Weaver,1976,2003,['Tufts'],True,27,27,True
+171,David Lederman,2005,2014,['West Virginia'],True,9,9,True
+172,David Lubensky,2006,2024,['Michigan'],True,18,18,False
+173,David Nelson,2005,2024,['Harvard'],True,19,19,False
+174,David Nicoli,1976,1986,['UCSB'],True,10,10,True
+175,David Peak,2004,2024,['Utah State'],True,20,20,False
+176,David Pomeroy,1950,1951,['Florida'],True,1,1,True
+177,David S. Cannell,1975,1982,['UCSB'],True,7,7,True
+178,David Schwab,2014,2016,['Northwestern'],True,2,2,True
+179,David Weitz,2001,2024,['Harvard'],True,23,23,False
+180,David van Winkle,1990,2024,['Florida State'],True,34,34,False
+181,Dean Astumian,2001,2024,['Maine'],True,23,23,False
+182,Deborah Fygenson,2000,2024,['UCSB'],True,24,24,False
+183,Dennis Della Corte,2019,2024,['BYU'],True,5,5,False
+184,Derek Stein,2006,2024,['Brown'],True,18,18,False
+185,Dervis Can Vural,2014,2024,['Notre Dame'],True,10,10,False
+186,Dezhe Jin,2002,2024,['Penn State'],True,22,22,False
+187,Dhiraj Sardar,1984,2024,['Texas San Antonio'],True,40,40,False
+188,Dimitrios Vavylonis,2006,2024,['Lehigh'],True,18,18,False
+189,Dimitry Matyushov,2006,2024,['Arizona State'],True,18,18,False
+190,Dinah Loerke,2009,2024,['Denver'],True,15,15,False
+191,Dolores Bozovic,2005,2024,['UCLA'],True,19,19,False
+192,Don Fredkin,1984,1994,['UCSD'],True,10,10,True
+193,Donald Glaser,1962,2009,['UC Berkeley'],True,47,47,True
+194,Donald L.D. Caspar,1972,1993,['Brandeis'],True,21,21,True
+195,Donghua Zhou,2008,2024,['Oklahoma State'],True,16,16,False
+196,Dongping Zhong,2002,2024,['Ohio State'],True,22,22,False
+197,Douglas E. Smith,2002,2024,['UCSD'],True,22,22,False
+198,Douglas J. Donahue,1980,2021,['Arizona'],True,41,41,True
+199,Douglas Shepherd,2019,2024,['Arizona State'],True,5,5,False
+200,E. Raymond Andrew,1983,1998,['Florida'],True,15,15,True
+201,Earl W. Prohofsky,1973,2012,['Purdue'],True,39,39,True
+202,Earle C. Gregg,1950,1971,['Case Western'],True,21,21,True
+203,Eberhard Bodenschatz,2001,2004,['Cornell'],True,3,3,True
+204,Edmund P. Day,1976,2000,"['Buffalo', 'Emory']",False,13,24,True
+205,Edward D. Lipson,1980,2009,['Syracuse'],True,29,29,True
+206,Edward Gelerinter,1975,1989,['Kent State'],True,14,14,True
+207,Edward Lyman,2011,2024,['Delaware'],True,13,13,False
+208,Edward T. Gawlinski,2000,2005,['Temple'],True,5,5,True
+209,Elena Koslover,2018,2024,['UCSD'],True,6,6,False
+210,Eleni Katifori,2015,2024,['Pennsylvania'],True,9,9,False
+211,Elias Puchner,2014,2024,['Minnesota'],True,10,10,False
+212,Elizabeth Jerison,2022,2024,['Chicago'],True,2,2,False
+213,Elizabeth Mann,2012,2024,['Kent State'],True,12,12,False
+214,Elliott Montroll,1966,1971,['Rochester'],True,5,5,True
+215,Emil Alexov,2005,2024,['Clemson'],True,19,19,False
+216,Emre Takacs,2013,2024,['Clemson'],True,11,11,False
+217,Enrico Gratton,1978,2005,['Illinois'],True,27,27,True
+218,Erel Levine,2009,2017,['Harvard'],True,8,8,True
+219,Eric Benton,2005,2024,['Oklahoma State'],True,19,19,False
+220,Eric M. Harth,1967,1989,['Syracuse'],True,22,22,True
+221,Eric Siggia,1992,1999,['Cornell'],True,7,7,True
+222,Ernest Barreto,1998,2024,['George Mason'],True,26,26,False
+223,Ernest C. Pollard,1948,1954,['Yale'],True,6,6,True
+224,Erno Sajo,2001,2009,['LSU'],True,8,8,True
+225,Ernst K. Franke,1956,1975,['Cincinnati'],True,19,19,True
+226,Ernst-Ludwig Florin,2003,2024,['Texas'],True,21,21,False
+227,Eugene Ackerman,1951,1959,['Penn State'],True,8,8,True
+228,Eugenia V. Mielczarek,1978,1997,['George Mason'],True,19,19,True
+229,Evelyn Tang,2021,2024,['Rice'],True,3,3,False
+230,Everett A. Lipman,2003,2024,['UCSB'],True,21,21,False
+231,F. Marty Ytreberg,2006,2024,['Idaho'],True,18,18,False
+232,F. William Hersman,1998,2021,['New Hampshire'],True,23,23,True
+233,Fangqiang Zhu,2012,2020,['Indiana/Purdue'],True,8,8,True
+234,Fanwei Si,2021,2024,['CMU'],True,3,3,False
+235,Fatemeh Khalili-Araghi,2014,2024,['Illinois-Chicago'],True,10,10,False
+236,Feng Ding,2012,2024,['Clemson'],True,12,12,False
+237,Flavio Fenton,2013,2024,['Georgia Tech'],True,11,11,False
+238,Floyd K. Richtmyer,1921,1922,['Cornell'],True,1,1,True
+239,Francis Starr,2012,2024,['Wesleyan'],True,12,12,False
+240,Frank Ferrone,1981,2022,['Drexel'],True,41,41,True
+241,Frank J. Blatt,1973,1982,['Michigan State'],True,9,9,True
+242,Frank Moss,1990,2009,['Missouri-St Louis'],True,19,19,True
+243,Franklin Hutchinson,1948,1954,['Yale'],True,6,6,True
+244,Fred M. Uber,1936,1947,"['Missouri', 'Iowa State']",False,8,11,True
+245,"Freddie Salsbury, Jr.",2002,2024,['Wake Forest'],True,22,22,False
+246,Frederick Becchetti,1994,2004,['Michigan'],True,10,10,True
+247,Frederick Cummings,1985,2007,['UC Riverside'],True,22,22,True
+248,G. Uli Nienhaus,1992,1995,['Illinois'],True,3,3,True
+249,Gabor Forgacs,1988,2019,"['Clarkson', 'Missouri']",False,30,31,True
+250,Ganhui Lan,2012,2024,['Geo. Washington'],True,12,12,False
+251,Garrett Matthews,2005,2024,['USF'],True,19,19,False
+252,Gary Hastings,2000,2024,['GSU'],True,24,24,False
+253,Gavin King,2010,2024,['Missouri'],True,14,14,False
+254,Gennady Cymbalyuk,2004,2010,['GSU'],True,6,6,True
+255,Gennady Potapenko,1939,1947,['Caltech'],True,8,8,True
+256,George Benedek,1967,2015,['MIT'],True,48,48,True
+257,George Feher,1964,1992,['UCSD'],True,28,28,True
+258,George Gamow,1953,1966,"['Geo. Washington', 'Colorado']",False,12,13,True
+259,George Gruner,2000,2006,['UCLA'],True,6,6,True
+260,George Holzwarth,1987,2022,['Wake Forest'],True,35,35,True
+261,George I. Malinin,1976,2003,['Georgetown'],True,27,27,True
+262,George Lang,1973,1989,['Penn State'],True,16,16,True
+263,George Rayfield,1985,1999,['Oregon'],True,14,14,True
+264,George Shubeita,2007,2019,['Texas'],True,12,12,True
+265,George T. Reynolds,1967,1993,['Princeton'],True,26,26,True
+266,George Thurston,2003,2024,['Rochester Tech'],True,21,21,False
+267,George Zweig,1974,1992,['Caltech'],True,18,18,True
+268,Gerald L. Pollack,1976,1991,['Michigan State'],True,15,15,True
+269,Gerald Rosen,1973,1989,['Drexel'],True,16,16,True
+270,Germano Ianacchione,1998,2024,['Worcester Poly'],True,26,26,False
+271,Gertrude Rempfer,1971,1994,['Portland State'],True,23,23,True
+272,Ghanim Ullah,2013,2024,['USF'],True,11,11,False
+273,Gianni Ascarelli,1976,1979,['Purdue'],True,3,3,True
+274,Giovanni Zocchi,2000,2024,['UCLA'],True,24,24,False
+275,Glenn Lykken,1980,2024,['North Dakota'],True,44,44,False
+276,Glenn S. Edwards,1986,2017,"['Vanderbilt', 'Duke']",False,30,31,True
+277,Gordon B.B.M. Sutherland,1949,1955,['Michigan'],True,6,6,True
+278,Gordon Cates,2006,2024,['Virginia'],True,18,18,False
+279,Gordon L. Shaw,1974,2003,['UC Irvine'],True,29,29,True
+280,Grace Brannigan,2011,2024,['Rutgers-Camden'],True,13,13,False
+281,Grace C. Moulton,1964,1985,['Florida State'],True,21,21,True
+282,Grant Bunker,1997,2024,['Illinois-Chicago'],True,27,27,False
+283,Greg Morrison,2017,2024,['Houston'],True,7,7,False
+284,Guang Jia,2013,2015,['LSU'],True,2,2,True
+285,Guanyu Wang,2006,2012,['Geo. Washington'],True,6,6,True
+286,Guillaume Duclos,2019,2024,['Brandeis'],True,5,5,False
+287,Guoliang Yang,2001,2009,['Drexel'],True,8,8,True
+288,Gyan Bhanot,2006,2024,['Rutgers'],True,18,18,False
+289,H. Alan Schwettman,1993,2010,['Stanford'],True,17,17,True
+290,H. Eugene Stanely,1970,1975,['MIT'],True,5,5,True
+291,H. Eugene Stanley,1975,2020,['Boston U'],True,45,45,True
+292,H. James Harmon,1977,2013,['Oklahoma State'],True,36,36,True
+293,H. Larry Scott,1974,2009,"['Oklahoma State', 'Illinois Tech']",False,34,35,True
+294,Haicen Yue,2023,2024,['Vermont'],True,1,1,False
+295,Hamza Balci,2009,2024,['Kent State'],True,15,15,False
+296,Hana Dobrovolny,2012,2024,['Texas Christian'],True,12,12,False
+297,Hanna Salman,2010,2024,['Pittsburgh'],True,14,14,False
+298,Hannah Yevick,2022,2024,['Brandeis'],True,2,2,False
+299,Hans Frauenfelder,1966,1991,['Illinois'],True,25,25,True
+300,Harald Schraer,1957,1962,['Penn State'],True,5,5,True
+301,Harlan W. Lefevre,1983,1996,['Oregon'],True,13,13,True
+302,"Harold E. Rorschach, Jr.",1970,1992,['Rice'],True,22,22,True
+303,Harold Kersten,1933,1954,['Cincinnati'],True,21,21,True
+304,Harold Kim,2012,2024,['Georgia Tech'],True,12,12,False
+305,Harrison M. Randall,1948,1964,['Michigan'],True,16,16,True
+306,Harvey J. Stapleton,1975,1989,['Illinois'],True,14,14,True
+307,Harvey Rexroad,1958,1964,['West Virginia'],True,6,6,True
+308,Haywood Blum,1971,1974,['Drexel'],True,3,3,True
+309,Heiner Linke,2001,2008,['Oregon'],True,7,7,True
+310,Heinz-Bern Schuttler,2002,2024,['Georgia'],True,22,22,False
+311,Henri van Rinsvelt,1974,2003,['Florida'],True,29,29,True
+312,Henry S. Greenside,1995,2004,['Duke'],True,9,9,True
+313,Herbert Jehle,1950,1971,"['Geo. Washington', 'Nebraska']",True,29,21,True
+314,Herbert Levine,1992,2024,"['UCSD', 'Rice', 'Northeastern']",False,29,32,False
+315,Herbert Pohl,1964,1980,['Oklahoma State'],True,16,16,True
+316,Hernan Garcia,2015,2024,['UC Berkeley'],True,9,9,False
+317,Hernan Makse,2010,2024,['CCNY'],True,14,14,False
+318,Hiram Hart,1955,1979,['CCNY'],True,24,24,True
+319,Hong Wang,2011,2024,['N. Carolina State'],True,13,13,False
+320,Horace Richard Crane,1939,1959,['Michigan'],True,20,20,True
+321,Horacio Farach,1980,1997,['South Carolina'],True,17,17,True
+322,Horia Petrache,2005,2024,['Indiana/Purdue'],True,19,19,False
+323,Howard W. Shields,1963,2003,['Wake Forest'],True,40,40,True
+324,Huabei Jiang,1997,2004,['Clemson'],True,7,7,True
+325,Huan-Xiang Zhou,1998,2024,"['Drexel', 'Florida State', 'Illinois-Chicago']",False,24,26,False
+326,Huey W. Huang,1973,2018,['Rice'],True,45,45,True
+327,Hugo Bernard Wahlin,1946,1948,['Wisconsin'],True,2,2,True
+328,Hugo Sanabria,2014,2024,['Clemson'],True,10,10,False
+329,Hyungsik Lim,2011,2024,['Hunter College'],True,13,13,False
+330,I. Richard Lapidus,1969,1989,['Stevens'],True,20,20,True
+331,Ian Pegg,2012,2024,['Catholic U'],True,12,12,False
+332,Ibrahim Cissè,2014,2020,['MIT'],True,6,6,True
+333,Ichiro Miyagawa,1965,1984,['Alabama'],True,19,19,True
+334,Ido Braslavsky,2003,2011,['Ohio'],True,8,8,True
+335,Ido Golding,2007,2024,"['Illinois', 'Illinois']",False,6,17,False
+336,Ilya Nemenman,2009,2024,['Emory'],True,15,15,False
+337,Ioan Kosztin,2001,2024,['Missouri'],True,23,23,False
+338,Ionel Popa,2015,2024,['UW-Milwaukee'],True,9,9,False
+339,Irving J. Lowe,1986,2004,['Pittsburgh'],True,18,18,True
+340,Isabel Hanson Tipton,1948,1974,['Tennessee'],True,26,26,True
+341,Itai Cohen,2005,2024,['Cornell'],True,19,19,False
+342,Ivan Rasnik,2005,2010,['Emory'],True,5,5,True
+343,Ivar Giaever,1988,2003,['RPI'],True,15,15,True
+344,J. Lawrence Katz,1963,1980,['RPI'],True,17,17,True
+345,JC Gumbart,2013,2024,['Georgia Tech'],True,11,11,False
+346,Jaan Mannik,2011,2024,['Tennessee'],True,13,13,False
+347,James A. Glazier,2002,2017,['Indiana'],True,15,15,True
+348,James Boedicker,2014,2024,['USC'],True,10,10,False
+349,James C. Glass,1968,1984,['N. Dakota State'],True,16,16,True
+350,James C. Martin,1980,1994,['UAB'],True,14,14,True
+351,James Franck,1935,1937,['Johns Hopkins'],True,2,2,True
+352,James G. Miller,1975,2015,['Washington U'],True,40,40,True
+353,James Glazier,1990,2001,['Notre Dame'],True,11,11,True
+354,James Gunton,2000,2017,['Lehigh'],True,17,17,True
+355,"James H. Bartlett, Jr.",1940,1963,['Illinois'],True,23,23,True
+356,James Hurley,1970,1984,['UC Davis'],True,14,14,True
+357,James L. Thomas,2003,2024,['New Mexico'],True,21,21,False
+358,James Lindesay,2014,2024,['Howard'],True,10,10,False
+359,James McCray,1975,1992,['Drexel'],True,17,17,True
+360,James Milch,1975,1981,['Princeton'],True,6,6,True
+361,James P.C. Southall,1914,1939,['Columbia'],True,25,25,True
+362,James Rooney,1972,1979,['Maine'],True,7,7,True
+363,James S. Trefil,1973,1977,['Virginia'],True,4,4,True
+364,James Valles,1997,2013,['Brown'],True,16,16,True
+365,James W. Longworth,1983,2009,['Illinois Tech'],True,26,26,True
+366,Jan Hendik Spille,2020,2024,['Illinois-Chicago'],True,4,4,False
+367,Jan Scrimgeour,2013,2024,['Clarkson'],True,11,11,False
+368,Janos Kirz,1976,2004,['Stony Brook'],True,28,28,True
+369,Jané Kondev,2000,2024,['Brandeis'],True,24,24,False
+370,Jasna Brujic,2009,2024,['NYU'],True,15,15,False
+371,Jason Hafner,2001,2024,['Rice'],True,23,23,False
+372,Jason Reed,2014,2024,['VCU'],True,10,10,False
+373,Jason Slinker,2010,2024,['Texas Dallas'],True,14,14,False
+374,Jay  W. Woodrow,1925,1932,['Iowa State'],True,7,7,True
+375,Jay X Tang,1999,2024,"['Indiana', 'Brown']",False,24,25,False
+376,Jayanth Banavar,1995,2024,"['Penn State', 'Maryland', 'Oregon']",False,27,29,False
+377,Jayson Paulose,2018,2024,['Oregon'],True,6,6,False
+378,Jean Carlson,2001,2024,['UCSB'],True,23,23,False
+379,Jean-Pierre Biscar,1969,1974,['Wyoming'],True,5,5,True
+380,Jed Macosko,2006,2024,['Wake Forest'],True,18,18,False
+381,Jeff Gore,2010,2024,['MIT'],True,14,14,False
+382,Jeff Urbach,1996,2024,['Georgetown'],True,28,28,False
+383,Jeff Wereszczynski,2013,2024,['Illinois Tech'],True,11,11,False
+384,Jeffery Chancellor,2019,2024,['LSU'],True,5,5,False
+385,Jeffrey A. Sands,1973,1982,['Lehigh'],True,9,9,True
+386,Jeffrey B. Sokoloff,1987,2024,['Northeastern'],True,37,37,False
+387,Jennifer Curtis,2007,2024,['Georgia Tech'],True,17,17,False
+388,Jennifer Ogilvie,2005,2024,['Michigan'],True,19,19,False
+389,Jennifer Rieser,2022,2024,['Emory'],True,2,2,False
+390,Jennifer Ross,2007,2024,"['Massachusetts', 'Syracuse']",False,16,17,False
+391,Jennifer Schwarz,2005,2024,['Syracuse'],True,19,19,False
+392,Jens Gundlach,2004,2024,['U Washington'],True,20,20,False
+393,Jens-Christian Meiners,2001,2024,['Michigan'],True,23,23,False
+394,Jeremy England,2011,2018,['MIT'],True,7,7,True
+395,Jeremy Schmit,2011,2024,['Kansas State'],True,13,13,False
+396,Jerome Pine,1980,2013,['Caltech'],True,33,33,True
+397,Jerry Bernholc,2005,2024,['N. Carolina State'],True,19,19,False
+398,Jesse Beams,1939,1977,['Virginia'],True,38,38,True
+399,Jiali Li,2002,2024,['Arkansas'],True,22,22,False
+400,Jian-Min Yuan,1999,2024,['Drexel'],True,25,25,False
+401,Jianhui Zhong,1997,2024,['Rochester'],True,27,27,False
+402,Jianjun Pan,2013,2024,['USF'],True,11,11,False
+403,Jianping Lu,2002,2024,['North Carolina'],True,22,22,False
+404,Jianwei Miao,2004,2024,['UCLA'],True,20,20,False
+405,Jie Yang,1994,2019,['Vermont'],True,25,25,True
+406,Jin He,2011,2024,['Florida Int U'],True,13,13,False
+407,Jin Yu,2019,2024,['UC Irvine'],True,5,5,False
+408,Jing Liu,2017,2024,"['Indiana/Purdue', 'Purdue']",False,6,7,False
+409,Joachim Mueller,2005,2024,['Minnesota'],True,19,19,False
+410,John H. Broadhurst,1973,2014,['Minnesota'],True,41,41,True
+411,"John H. Miller, Jr.",2000,2024,['Houston'],True,24,24,False
+412,John H. Young,1978,1981,['UAB'],True,3,3,True
+413,John Hopfield,1970,1979,['Princeton'],True,9,9,True
+414,John M. Beggs,2003,2024,['Indiana'],True,21,21,False
+415,John Marko,1996,2024,"['Illinois-Chicago', 'Northwestern']",False,27,28,False
+416,John Nagle,1970,2022,['CMU'],True,52,52,True
+417,John O. Kessler,1974,2012,['Arizona'],True,38,38,True
+418,John P. Barach,1977,1997,['Vanderbilt'],True,20,20,True
+419,John P. Wikswo,1977,2024,['Vanderbilt'],True,47,47,False
+420,John Platt,1945,1963,['Chicago'],True,18,18,True
+421,John Portman,2007,2024,['Kent State'],True,17,17,False
+422,John R. Cressman,2005,2024,['George Mason'],True,19,19,False
+423,John S. Shearer,1915,1919,['Cornell'],True,4,4,True
+424,John T. Ho,1975,1985,['Buffalo'],True,10,10,True
+425,John Toner,1995,2024,['Oregon'],True,29,29,False
+426,John W. Anderegg,1957,1989,['Wisconsin'],True,32,32,True
+427,John W. Preiss,1962,1979,['Delaware'],True,17,17,True
+428,Jonathan Abramson,1982,2011,['Portland State'],True,29,29,True
+429,Jonathan Celli,2011,2024,['UMass - Boston'],True,13,13,False
+430,Jonathan Townsend,1954,1962,['Washington U'],True,8,8,True
+431,Jorge H. Rodriguez,2001,2022,['Purdue'],True,21,21,True
+432,Jorge Jose,1997,2024,"['Northeastern', 'Buffalo', 'Indiana']",False,22,27,False
+433,Josef Kas,1996,2001,['Texas'],True,5,5,True
+434,Joseph D. Harris,1963,1968,['Dartmouth'],True,5,5,True
+435,Joseph G. Harrison,1992,2009,['UAB'],True,17,17,True
+436,Joseph G. Hoffman,1957,1973,['Buffalo'],True,16,16,True
+437,Joseph Larkin,2020,2024,['Boston U'],True,4,4,False
+438,Joseph M. Collins,1983,1992,['Marquette'],True,9,9,True
+439,Joseph Reiner,2012,2024,['VCU'],True,12,12,False
+440,Joseph Rudnick,1997,2024,['UCLA'],True,27,27,False
+441,Joseph W. Weinberg,1962,1967,['Western Reserve'],True,5,5,True
+442,Joshua M. Deutsch,1986,2024,['UC Santa Cruz'],True,38,38,False
+443,Joshua Shaevitz,2007,2024,['Princeton'],True,17,17,False
+444,José Alvarado,2019,2024,['Texas'],True,5,5,False
+445,José Onuchic,1990,2024,"['UCSD', 'Rice']",False,32,34,False
+446,Joyoni Dey,2014,2024,['LSU'],True,10,10,False
+447,Juan Guan,2020,2024,['Florida'],True,4,4,False
+448,Juan Vanegas,2016,2024,['Vermont'],True,8,8,False
+449,Julien Tailleur,2022,2024,['MIT'],True,2,2,False
+450,Julio Belmonte,2018,2024,['N. Carolina State'],True,6,6,False
+451,Jun Allard,2013,2024,['UC Irvine'],True,11,11,False
+452,Jun Song,2014,2024,['Illinois'],True,10,10,False
+453,Junru Wu,1992,2024,['Vermont'],True,32,32,False
+454,Jutta Luettmer-Strathmann,2010,2024,['Akron'],True,14,14,False
+455,Juyang Huang,2000,2024,['Texas Tech'],True,24,24,False
+456,Kandula S.R. Sastry,1977,1993,['Massachusetts'],True,16,16,True
+457,Karl G. Lark,1963,1969,['Kansas State'],True,6,6,True
+458,Karl Lark-Horovitz,1929,1940,['Purdue'],True,11,11,True
+459,Kathryn Mayer,2014,2024,['Texas San Antonio'],True,10,10,False
+460,Katsushi Arisaka,2008,2024,['UCLA'],True,16,16,False
+461,Keith Berland,2000,2016,['Emory'],True,16,16,True
+462,Keith Bonin,2005,2024,['Wake Forest'],True,19,19,False
+463,Keith Cassidy,2023,2024,['Missouri'],True,1,1,False
+464,Keith Earle,2012,2024,['Albany'],True,12,12,False
+465,Keith Lidke,2007,2024,['New Mexico'],True,17,17,False
+466,Keith Weninger,2004,2024,['N. Carolina State'],True,20,20,False
+467,Kelly Nash,2010,2024,['Texas San Antonio'],True,14,14,False
+468,Kelvin Chu,1999,2012,['Vermont'],True,13,13,True
+469,Ken Dill,2012,2024,['Stony Brook'],True,12,12,False
+470,Ken Ritchie,2005,2024,['Purdue'],True,19,19,False
+471,Ken Rothschild,1976,2020,['Boston U'],True,44,44,True
+472,Kenneth H.  Langley,1976,1989,['Massachusetts'],True,13,13,True
+473,"Kenneth Matthews, II",2001,2024,['LSU'],True,23,23,False
+474,Kenneth R. Hogstrom,2004,2010,['LSU'],True,6,6,True
+475,Kenneth W. Foster,1984,2014,['Syracuse'],True,30,30,True
+476,Kevin Bassler,2012,2024,['Houston'],True,12,12,False
+477,Kevin E. Cahill,1999,2011,['New Mexico'],True,12,12,True
+478,Kevin Wood,2013,2024,['Michigan'],True,11,11,False
+479,Kevork Spartalian,1979,2004,['Vermont'],True,25,25,True
+480,Kingshuk Ghosh,2008,2024,['Denver'],True,16,16,False
+481,Kinjal Dasbiswas,2018,2024,['UC Merced'],True,6,6,False
+482,Kirill Korolev,2013,2024,['Boston U'],True,11,11,False
+483,Klaus Honscheid,2005,2010,['Ohio State'],True,5,5,True
+484,Klaus Schulten,1988,2015,['Illinois'],True,27,27,True
+485,Koen Visscher,2000,2012,['Arizona'],True,12,12,True
+486,Kong-Thon Tsen,2005,2024,['Arizona State'],True,19,19,False
+487,Kun-Ta Wu,2017,2024,['Worcester Poly'],True,7,7,False
+488,Kural Comert,2012,2024,['Ohio State'],True,12,12,False
+489,Kurt Warncke,1995,2024,['Emory'],True,29,29,False
+490,Kwan Hon Cheng,1988,2013,['Texas Tech'],True,25,25,True
+491,Kwan Hsu,1964,1977,['Portland State'],True,13,13,True
+492,Kwok To Yue,1985,1995,['Emory'],True,10,10,True
+493,L. David Roper,1970,1975,['Virginia Tech'],True,5,5,True
+494,L. John Gagliardi,1971,2019,['Rutgers-Camden'],True,48,48,True
+495,Larry B. Sorenson,2007,2010,['U Washington'],True,3,3,True
+496,Laura Eisenstein,1972,1984,['Illinois'],True,12,12,True
+497,Laura Finzi,2005,2024,"['Emory', 'Clemson']",True,19,19,False
+498,Laurence Abbott,1987,1992,['Brandeis'],True,5,5,True
+499,Laurence Lurio,2001,2024,['Northern Illinois'],True,23,23,False
+500,Laxman Mainali,2019,2024,['Boise State'],True,5,5,False
+501,Lee Makowski,1988,1992,['Boston U'],True,4,4,True
+502,Leon Cooper,1970,2019,['Brown'],True,49,49,True
+503,Leon J. Bruner,1965,1997,['UC Riverside'],True,32,32,True
+504,Leonard Finegold,1968,1999,"['Colorado', 'Drexel']",False,26,31,True
+505,Leonard I. Grossweiner,1959,1994,['Illinois Tech'],True,35,35,True
+506,Leonard J.  Lis,1981,1982,['Illinois Tech'],True,1,1,True
+507,Leonard J. Lis,1983,1989,['Kent State'],True,6,6,True
+508,Leonardo Golubovic,1994,2011,['West Virginia'],True,17,17,True
+509,Leroy Dean Chapman,1996,2001,['Illinois Tech'],True,5,5,True
+510,Leroy L. Barnes,1938,1971,['Cornell'],True,33,33,True
+511,Liao Chen,1994,2024,['Texas San Antonio'],True,30,30,False
+512,Linda Hirst,2008,2024,['UC Merced'],True,16,16,False
+513,Linda S. Hirst,2005,2007,['Florida State'],True,2,2,True
+514,Lisa Lapidus,2004,2024,['Michigan State'],True,20,20,False
+515,Lisa Manning,2011,2024,['Syracuse'],True,13,13,False
+516,Lishibanya Mohapatra,2020,2024,['Rochester Tech'],True,4,4,False
+517,Liviu Movileanu,2004,2024,['Syracuse'],True,20,20,False
+518,Lloyd Lumata,2014,2024,['Texas Dallas'],True,10,10,False
+519,Lloyd M. Davis,1990,2018,['Tennessee'],True,28,28,True
+520,Lonnie Van Zandt,1976,1994,['Purdue'],True,18,18,True
+521,Loren Hough,2012,2024,['Colorado'],True,12,12,False
+522,Lorenzo Bancaleon,2010,2024,['Texas San Antonio'],True,14,14,False
+523,Lori Goldner,2009,2016,['Massachusetts'],True,7,7,True
+524,Lou Reinisch,1984,1987,['Northeastern'],True,3,3,True
+525,Luis Cruz Cruz,2008,2024,['Drexel'],True,16,16,False
+526,Lydia Kisley,2019,2024,['Case Western'],True,5,5,False
+527,Lydia Sohn,2000,2002,['Princeton'],True,2,2,True
+528,Lyndon L. Larcom,1972,2006,['Clemson'],True,34,34,True
+529,M. Cristina Marchetti,2004,2024,"['Syracuse', 'UCSB']",False,19,20,False
+530,Malcom W.P. Strandberg,1970,1984,['MIT'],True,14,14,True
+531,Manuel Schwartz,1957,1998,['Louisville'],True,41,41,True
+532,Mara Prentiss,2000,2024,['Harvard'],True,24,24,False
+533,Marc Gershow,2013,2024,['NYU'],True,11,11,False
+534,Marcelo Marucho,2010,2024,['Texas San Antonio'],True,14,14,False
+535,Margaret Cheung,2006,2020,['Houston'],True,14,14,True
+536,Margaret Gardel,2007,2024,['Chicago'],True,17,17,False
+537,Maria Gracheva,2008,2024,['Clarkson'],True,16,16,False
+538,Maria Kamenetska,2017,2024,['Boston U'],True,7,7,False
+539,Maria Mills,2021,2024,['Missouri'],True,3,3,False
+540,Maria Mukhina,2024,2024,['Maryland'],True,0,0,False
+541,Marilyn Bishop,1983,1985,['Drexel'],True,2,2,True
+542,Marilyn F. Bishop,1986,2024,['VCU'],True,38,38,False
+543,Marilyn R. Gunner,1992,2024,['CCNY'],True,32,32,False
+544,Marius Schmidt,2007,2024,['UW-Milwaukee'],True,17,17,False
+545,Mark C. Williams,2001,2024,['Northeastern'],True,23,23,False
+546,Mark Goulian,2000,2024,['Pennsylvania'],True,24,24,False
+547,Mark Mandelkern,1994,2021,['UC Irvine'],True,27,27,True
+548,Mark Reeves,2012,2024,['Geo. Washington'],True,12,12,False
+549,Mark S. Conradi,1995,2015,['Washington U'],True,20,20,True
+550,Mark Schlossman,2005,2024,['Illinois-Chicago'],True,19,19,False
+551,Mark Sharnoff,1970,1991,['Delaware'],True,21,21,True
+552,Mark W. Meisel,2005,2012,['Florida'],True,7,7,True
+553,Markus Deserno,2007,2024,['CMU'],True,17,17,False
+554,Martin B. Forstner,2008,2016,['Syracuse'],True,8,8,True
+555,Martin Guthold,2001,2024,['Wake Forest'],True,23,23,False
+556,Martin Muschol,2005,2024,['USF'],True,19,19,False
+557,Marvin D. Kemple,1980,2012,['Indiana/Purdue'],True,32,32,True
+558,Marvin W. Johnson,1977,1983,['RPI'],True,6,6,True
+559,Mary Elting,2017,2024,['N. Carolina State'],True,7,7,False
+560,Mary-Ann Mycek,1998,2001,['Dartmouth'],True,3,3,True
+561,Mason Klein,2015,2024,['Miami'],True,9,9,False
+562,Massimo Vergassola,2013,2018,['UCSD'],True,5,5,True
+563,Mathias Losche,2005,2020,['CMU'],True,15,15,True
+564,Matthew Comstock,2012,2024,['Michigan State'],True,12,12,False
+565,Matthew Lee Ferguson,2013,2024,['Boise State'],True,11,11,False
+566,Mattia Serra,2020,2024,['UCSD'],True,4,4,False
+567,Max A. Lauffer,1944,1948,['Pittsburgh'],True,4,4,True
+568,Max Delbruck,1940,1946,['Vanderbilt'],True,6,6,True
+569,Mayank Mehta,2010,2024,['UCLA'],True,14,14,False
+570,Mehran Kardar,1992,2024,['MIT'],True,32,32,False
+571,Melvin Okamura,1984,2011,['UCSD'],True,27,27,True
+572,Meni Wanunu,2011,2024,['Northeastern'],True,13,13,False
+573,Meredith Betterton,2005,2024,['Colorado'],True,19,19,False
+574,Michael DeWeese,2007,2024,['UC Berkeley'],True,17,17,False
+575,Michael Gramlich,2019,2024,['Auburn'],True,5,5,False
+576,Michael Hagan,2007,2024,['Brandeis'],True,17,17,False
+577,Michael Hinczewski,2014,2024,['Case Western'],True,10,10,False
+578,Michael Isaacson,1973,1978,['Chicago'],True,5,5,True
+579,Michael Martens,1991,2024,['Case Western'],True,33,33,False
+580,Michael Poirier,2008,2024,['Ohio State'],True,16,16,False
+581,Michael Pollak,1965,1975,['UC Riverside'],True,10,10,True
+582,Michael S. Feld,1986,2011,['MIT'],True,25,25,True
+583,Michael Schick,1999,2024,['U Washington'],True,25,25,False
+584,Michael Thorpe,2003,2018,['Arizona State'],True,15,15,True
+585,Michael Vershinin,2010,2024,['Utah'],True,14,14,False
+586,Michael Zochowski,2001,2024,['Michigan'],True,23,23,False
+587,Michael Zwolak,2011,2013,['Oregon State'],True,2,2,True
+588,Michel Pleimling,2011,2024,['Virginia Tech'],True,13,13,False
+589,Michele Di Pierro,2019,2024,['Northeastern'],True,5,5,False
+590,Michelle Girvan,2007,2024,['Maryland'],True,17,17,False
+591,Michelle Wang,1999,2024,['Cornell'],True,25,25,False
+592,Mikhail Tikhonov,2018,2024,['Washington U'],True,6,6,False
+593,Min Xu,2018,2024,['Hunter College'],True,6,6,False
+594,Mingwu Jin,2014,2024,['Texas Arlington'],True,10,10,False
+595,Mini Das,2011,2024,['Houston'],True,13,13,False
+596,Minsu Kim,2014,2024,['Emory'],True,10,10,False
+597,Mirna Skanata,2021,2024,['Syracuse'],True,3,3,False
+598,Mohamed El-Naggar,2009,2024,['USC'],True,15,15,False
+599,Mohamed Laradji,2002,2024,['Memphis'],True,22,22,False
+600,Morrel Cohen,1970,1975,['Chicago'],True,5,5,True
+601,Morris Shamos,1963,1974,['NYU'],True,11,11,True
+602,Moumita Das,2012,2024,['Rochester Tech'],True,12,12,False
+603,Mukeshwar Dhamala,2006,2024,['GSU'],True,18,18,False
+604,Mumtaz A. Dinno,1987,1993,['Mississippi'],True,6,6,True
+605,Myung-Keung Kim,1995,2024,['USF'],True,29,29,False
+606,Narendra Goel,1966,1970,['Rochester'],True,4,4,True
+607,Neil F. Johnson,2006,2017,['Miami'],True,11,11,True
+608,Nguyen-Huu Xuong,1972,2004,['UCSD'],True,32,32,True
+609,Nigel Goldenfeld,2004,2024,"['Illinois', 'UCSD']",False,19,20,False
+610,Nitka Fakhri,2015,2024,['MIT'],True,9,9,False
+611,Noel L. Goddard,2007,2012,['Hunter College'],True,5,5,True
+612,"Norman C. Ford, Jr.",1969,1980,['Massachusetts'],True,11,11,True
+613,Norman Tepley,1976,1997,['Oakland'],True,21,21,True
+614,O.D. Sittler,1963,1966,['Texas A&M'],True,3,3,True
+615,Oleg Andreev,2005,2024,['Rhode Island'],True,19,19,False
+616,Olga K. Dudko,2008,2024,['UCSD'],True,16,16,False
+617,Oliver Beckstein,2012,2024,['Arizona State'],True,12,12,False
+618,"Oscar J. Lumpkin, Jr.",1974,1983,['UCSD'],True,9,9,True
+619,"Oscar Lumpkin, Jr.",1969,1971,['CCNY'],True,2,2,True
+620,Oskar Hallatschek,2012,2024,['UC Berkeley'],True,12,12,False
+621,Otis R. Gilliam,1971,1979,['Connecticut'],True,8,8,True
+622,Otto H. Schmitt,1939,1979,['Minnesota'],True,40,40,True
+623,Otto Sankey,1995,2010,['Arizona State'],True,15,15,True
+624,Otto Stuhlman,1936,1949,['North Carolina'],True,13,13,True
+625,Otto Zhou,2002,2024,['North Carolina'],True,22,22,False
+626,P.  Galen Lenhert,1964,1993,['Vanderbilt'],True,29,29,True
+627,Pankaj Mehta,2010,2024,['Boston U'],True,14,14,False
+628,Paolo Grigolini,1994,2024,['North Texas'],True,30,30,False
+629,Paul A. Wiggins,2010,2024,['U Washington'],True,14,14,False
+630,Paul C. Whitford,2012,2024,['Northeastern'],True,12,12,False
+631,Paul Champion,1984,2024,['Northeastern'],True,40,40,False
+632,Paul E. Phillipson,1968,2004,['Colorado'],True,36,36,True
+633,Paul Hansma,1988,2024,['UCSB'],True,36,36,False
+634,Paul Latimer,1958,1990,"['Vanderbilt', 'Auburn']",False,31,32,True
+635,Paul Selvin,1998,2024,['Illinois'],True,26,26,False
+636,Paul So,1998,2024,['George Mason'],True,26,26,False
+637,Paul Tiesinga,2002,2008,['North Carolina'],True,6,6,True
+638,Paul W. Schmidt,1960,1992,['Missouri'],True,32,32,True
+639,Paul Westhaus,1977,1981,['Oklahoma State'],True,4,4,True
+640,Pavel Smejtek,1974,2009,['Portland State'],True,35,35,True
+641,Pei-Herng Hor,2011,2024,['Houston'],True,13,13,False
+642,Peter Chung,2021,2024,['USC'],True,3,3,False
+643,Peter Debrunner,1966,1999,['Illinois'],True,33,33,True
+644,Peter Fong,1966,1968,['Emory'],True,2,2,True
+645,Peter Foster,2023,2024,['USC'],True,1,1,False
+646,Peter Jung,1997,2024,['Ohio'],True,27,27,False
+647,Peter Kahn,1974,1981,['Stony Brook'],True,7,7,True
+648,Peter Rez,2001,2020,['Arizona State'],True,19,19,True
+649,Peter Schwander,2014,2024,['UW-Milwaukee'],True,10,10,False
+650,Peter Yunker,2017,2024,['Georgia Tech'],True,7,7,False
+651,Phil Pincus,1993,2020,['UCSB'],True,27,27,True
+652,Philip G. Collins,2012,2024,['UC Irvine'],True,12,12,False
+653,Philip Nelson,1992,2024,['Pennsylvania'],True,32,32,False
+654,Phillippe Cluzel,2000,2007,['Chicago'],True,7,7,True
+655,Ping Yu,2003,2024,['Missouri'],True,21,21,False
+656,Polad Shikhaliev,2007,2014,['LSU'],True,7,7,True
+657,Pradeep Kumar,2013,2024,['Arkansas'],True,11,11,False
+658,Prem Chapagain,2006,2024,['Florida Int U'],True,18,18,False
+659,Priya Banerjee,2017,2024,['Buffalo'],True,7,7,False
+660,Pu Chun Ke,2003,2012,['Clemson'],True,9,9,True
+661,Pupa Gilbert,1999,2024,['Wisconsin'],True,25,25,False
+662,Qi Wen,2013,2024,['Worcester Poly'],True,11,11,False
+663,Quan Qing,2013,2024,['Arizona State'],True,11,11,False
+664,Qun Zhao,2006,2024,['Georgia'],True,18,18,False
+665,Rafael Bernardi,2020,2024,['Auburn'],True,4,4,False
+666,Raghuveer Parthasarathy,2006,2024,['Oregon'],True,18,18,False
+667,Rahul Kulkarni,2004,2024,"['Virginia Tech', 'UMass - Boston']",False,19,20,False
+668,Rainer K. Sachs,1988,2024,['UC Berkeley'],True,36,36,False
+669,Rajiv Singh,2000,2013,['UC Davis'],True,13,13,True
+670,Ralf Bundschuh,2001,2024,['Ohio State'],True,23,23,False
+671,Ralf Wessel,2000,2024,['Washington U'],True,24,24,False
+672,Ralph Schiller,1974,1979,['Stevens'],True,5,5,True
+673,Ralph W.G. Wyckoff,1959,1976,['Arizona'],True,17,17,True
+674,Ram R. Sharma,1973,1983,['Illinois-Chicago'],True,10,10,True
+675,Rama Bansil,1980,2019,['Boston U'],True,39,39,True
+676,Ramakrishna Podila,2014,2024,['Clemson'],True,10,10,False
+677,Rana Ashkar,2018,2024,['Virginia Tech'],True,6,6,False
+678,Ranjan Mukhopadhyay,2003,2024,['Clark'],True,21,21,False
+679,Ratnasingham Sooryakumar,2008,2024,['Ohio State'],True,16,16,False
+680,Ravindra Pandey,2007,2024,['Michigan Tech'],True,17,17,False
+681,Ray Goldstein,1991,2005,"['Princeton', 'Arizona']",False,13,14,True
+682,Ray Young,1980,1999,['Georgia Tech'],True,19,19,True
+683,Raymond Pepinsky,1955,1958,['Penn State'],True,3,3,True
+684,Recep Avci,1992,2024,['Montana State'],True,32,32,False
+685,Rein Kilkson,1970,1991,['Arizona'],True,21,21,True
+686,Reinhard Bruch,1999,2011,['Nevada - Reno'],True,12,12,True
+687,Reinhard Graetzer,1982,1986,['Penn State'],True,4,4,True
+688,Reka Albert,2005,2024,['Penn State'],True,19,19,False
+689,Rhonda Dzakpasu,2008,2024,['Georgetown'],True,16,16,False
+690,Ricardo Levi-Setti,1975,1999,['Chicago'],True,24,24,True
+691,Richard A. Arndt,1970,1975,['Virginia Tech'],True,5,5,True
+692,Richard A. Bone,1984,2022,['Florida Int U'],True,38,38,True
+693,Richard A. Harper,1972,1986,['RPI'],True,14,14,True
+694,Richard Carl Nelson,1950,1967,['Ohio State'],True,17,17,True
+695,Richard Cox,1938,1942,['NYU'],True,4,4,True
+696,Richard Joh,2021,2024,['VCU'],True,3,3,False
+697,Richard Kirian,2014,2024,['Arizona State'],True,10,10,False
+698,Richard Sands,1957,2002,['Michigan'],True,45,45,True
+699,Richard Setlow,1948,1954,['Yale'],True,6,6,True
+700,Richard Superfine,1996,2016,['North Carolina'],True,20,20,True
+701,Richard Taylor,2015,2024,['Oregon'],True,9,9,False
+702,Rizal Hariadi,2016,2024,['Arizona State'],True,8,8,False
+703,Rob de Ruyter van Steveninck,2003,2024,['Indiana'],True,21,21,False
+704,Robert Austin,1979,2024,['Princeton'],True,45,45,False
+705,Robert C. Bearse,1972,1979,['Kansas'],True,7,7,True
+706,Robert Davis,2000,2024,['BYU'],True,24,24,False
+707,Robert F. Marzke,1987,2011,['Arizona State'],True,24,24,True
+708,Robert H. Callender,1970,1995,['CCNY'],True,25,25,True
+709,Robert Hofstadter,1983,1989,['Stanford'],True,6,6,True
+710,Robert Hollebeek,2000,2019,['Pennsylvania'],True,19,19,True
+711,Robert J. Endorf,1985,2004,['Cincinnati'],True,19,19,True
+712,Robert K. Adair,1990,2003,['Yale'],True,13,13,True
+713,Robert Katz,1949,1987,"['Kansas State', 'Nebraska']",False,37,38,True
+714,Robert L. Berger,1957,1961,['Utah State'],True,4,4,True
+715,Robert L. Platzman,1949,1957,['Purdue'],True,8,8,True
+716,Robert L. Sinsheimer,1949,1956,['Iowa State'],True,7,7,True
+717,Robert M. Clegg,1998,2011,['Illinois'],True,13,13,True
+718,Robert M. Pearlstein,1983,1999,['Indiana/Purdue'],True,16,16,True
+719,Robert R. Alfano,1975,2024,['CCNY'],True,49,49,False
+720,Robert Riehn,2006,2024,['N. Carolina State'],True,18,18,False
+721,Robert Ros,2008,2024,['Arizona State'],True,16,16,False
+722,Robert S. Knox,1967,2006,['Rochester'],True,39,39,True
+723,Robert Schor,1965,1979,['Connecticut'],True,14,14,True
+724,Robert Szoszkiewicz,2008,2014,['Kansas State'],True,6,6,True
+725,Robert T. Nieset,1949,1961,['Tulane'],True,12,12,True
+726,Robert Thorne,1996,2024,['Cornell'],True,28,28,False
+727,Robert V. Coleman,1971,1982,['Virginia'],True,11,11,True
+728,Robert V. Lange,1969,1980,['Brandeis'],True,11,11,True
+729,Robert W. Brown,1987,2024,['Case Western'],True,37,37,False
+730,Robijn Bruinsma,1990,2024,['UCLA'],True,34,34,False
+731,Robley C. Williams,1945,1949,['Michigan'],True,4,4,True
+732,Robley D. Evans,1934,1968,['MIT'],True,34,34,True
+733,Roderick V. Jensen,1993,2004,['Wesleyan'],True,11,11,True
+734,Roger Walmsley,1969,1974,['Pennsylvania'],True,5,5,True
+735,Roger Wartell,1974,1989,['Georgia Tech'],True,15,15,True
+736,Rogers C. Ritter,1964,1999,['Virginia'],True,35,35,True
+737,Ronald Aaron,1996,2006,['Northeastern'],True,10,10,True
+738,Ronald F. Fox,1972,2006,['Georgia Tech'],True,34,34,True
+739,Ronald Koder,2007,2024,['CCNY'],True,17,17,False
+740,Ronald Ruby,1965,1981,['UC Santa Cruz'],True,16,16,True
+741,Rosa Di Felice,2018,2024,['USC'],True,6,6,False
+742,Rosa Tamara Branca,2012,2024,['North Carolina'],True,12,12,False
+743,Roy Chaney,1989,1994,['Texas Dallas'],True,5,5,True
+744,Roya Zandi,2007,2024,['UC Riverside'],True,17,17,False
+745,Royal Eugene Collins,1960,1978,['Houston'],True,18,18,True
+746,Rui Zhang,2014,2024,['LSU'],True,10,10,False
+747,Russell K. Hobbie,1969,2014,['Minnesota'],True,45,45,True
+748,S. James Remington,1985,2024,['Oregon'],True,39,39,False
+749,Sagar Pandit,2007,2024,['USF'],True,17,17,False
+750,Sam Williamson,1971,1999,['NYU'],True,28,28,True
+751,Samarendra Kumar Mohanty,2011,2017,['Texas Arlington'],True,6,6,True
+752,Samuel Cho,2010,2024,['Wake Forest'],True,14,14,False
+753,Samuel Krimm,1955,2001,['Michigan'],True,46,46,True
+754,Samuel Sprunt,2016,2024,['Kent State'],True,8,8,False
+755,Sangjin Kim,2019,2024,['Illinois'],True,5,5,False
+756,Sanjeevi Sivasankar,2008,2017,['Iowa State'],True,9,9,True
+757,Sara Solla,1997,2024,['Northwestern'],True,27,27,False
+758,Sara Vaiana,2008,2024,['Arizona State'],True,16,16,False
+759,Sarah Kostinski,2023,2024,['NYU'],True,1,1,False
+760,Saveez Saffarian,2010,2024,['Utah'],True,14,14,False
+761,Scott A. Lee,1980,2002,['Toledo'],True,22,22,True
+762,Seb Doniach,1975,2019,['Stanford'],True,44,44,True
+763,Sebastian Seung,2004,2013,['MIT'],True,9,9,True
+764,Sebastian Streichan,2016,2024,['UCSB'],True,8,8,False
+765,Seppe Kuehn,2013,2019,['Illinois'],True,6,6,True
+766,Sergei Savikhin,2002,2024,['Purdue'],True,22,22,False
+767,Seth Fraden,1990,2024,['Brandeis'],True,34,34,False
+768,Seungeun Oh,2023,2024,['UCSD'],True,1,1,False
+769,Seymour Benzer,1947,1957,['Purdue'],True,10,10,True
+770,Seymour S. Alpert,1973,1992,['New Mexico'],True,19,19,True
+771,Shane Hutson,2003,2024,['Vanderbilt'],True,21,21,False
+772,Shankar Mukherji,2017,2024,['Washington U'],True,7,7,False
+773,Sharonda LeBlanc,2020,2024,['N. Carolina State'],True,4,4,False
+774,Sheyum Syed,2013,2024,['Miami'],True,11,11,False
+775,Shi-Jie Chen,2000,2024,['Missouri'],True,24,24,False
+776,Shiladitya Banerjee,2019,2024,['CMU'],True,5,5,False
+777,Shyamsunder Erramilli,1986,2024,"['Princeton', 'Boston U']",False,37,38,False
+778,Silverio P. Almeida,1971,1988,['Virginia Tech'],True,17,17,True
+779,Sima Setayeshgar,2004,2024,['Indiana'],True,20,20,False
+780,Simon Mochrie,2001,2024,['Yale'],True,23,23,False
+781,Simon Sponberg,2014,2024,['Georgia Tech'],True,10,10,False
+782,Sol Gruner,1997,2024,['Cornell'],True,27,27,False
+783,Sol M. Gruner,1978,1996,['Princeton'],True,18,18,True
+784,Solon Georghiou,1974,2006,['Tennessee'],True,32,32,True
+785,Sonya Bahar,2004,2024,['Missouri-St Louis'],True,20,20,False
+786,Srinivas Sridhar,2008,2024,['Northeastern'],True,16,16,False
+787,Srividya Iyer-Biswas,2016,2024,['Purdue'],True,8,8,False
+788,Stanislas Leibler,1992,2000,['Princeton'],True,8,8,True
+789,Stephen Durbin,1999,2004,['Purdue'],True,5,5,True
+790,Stephen Hagen,1999,2024,['Florida'],True,25,25,False
+791,Stephen R. Wassall,1985,2024,['Indiana/Purdue'],True,39,39,False
+792,Steve Pressé,2013,2024,"['Indiana/Purdue', 'Arizona State']",False,9,11,False
+793,Steven Block,1999,2021,['Stanford'],True,22,22,True
+794,Steven Chu,1990,2024,['Stanford'],True,34,34,False
+795,Steven Koch,2006,2012,['New Mexico'],True,6,6,True
+796,Steven L. Levy,2010,2024,['Binghamton'],True,14,14,False
+797,Steven Ruggiero,2011,2021,['Notre Dame'],True,10,10,True
+798,Stuart M. Lindsay,1984,2024,['Arizona State'],True,40,40,False
+799,Suckjoon Jun,2012,2024,['UCSD'],True,12,12,False
+800,Sumientra Rampersad,2021,2024,['UMass - Boston'],True,3,3,False
+801,Suraj Shankar,2024,2024,['Michigan'],True,0,0,False
+802,Suren Tatulian,2008,2024,['Central Florida'],True,16,16,False
+803,Susanne Ullrich,2004,2024,['Georgia'],True,20,20,False
+804,Susanta Sarkar,2014,2024,['Colorado School of Mines'],True,10,10,False
+805,Taekjip Ha,2000,2014,['Illinois'],True,14,14,True
+806,Tai-Huang Huang,1986,1992,['Georgia Tech'],True,6,6,True
+807,Tara Prasad Das,1971,2012,['Albany'],True,41,41,True
+808,Terrence Hwa,1996,2024,['UCSD'],True,28,28,False
+809,Theodora Leventouri,2000,2024,['Florida Atlantic'],True,24,24,False
+810,Theodore A. Litovitz,1988,2001,['Catholic U'],True,13,13,True
+811,Theodore Bowen,1980,1992,['Arizona'],True,12,12,True
+812,Thomas E. Kuhlman,2012,2024,"['Illinois', 'UC Riverside']",False,11,12,False
+813,Thomas Gregor,2009,2024,['Princeton'],True,15,15,False
+814,Thomas H. Foster,1991,2011,['Rochester'],True,20,20,True
+815,Thomas H. Wood,1956,1969,['Pennsylvania'],True,13,13,True
+816,Thomas M. Nordlund,1990,2018,['UAB'],True,28,28,True
+817,Thomas R. Manney,1972,1992,['Kansas State'],True,20,20,True
+818,Thomas R. Powers,2011,2024,['Brown'],True,13,13,False
+819,Thorsten Ritz,2003,2024,['UC Irvine'],True,21,21,False
+820,Thorsten-Lars Schmidt,2019,2024,['Kent State'],True,5,5,False
+821,Tim R. Hart,1979,1992,['Stevens'],True,13,13,True
+822,Timothy Newman,2002,2009,['Arizona State'],True,7,7,True
+823,Timothy Sage,1986,2017,['Northeastern'],True,31,31,True
+824,Toan Nguyen,2007,2011,['Georgia Tech'],True,4,4,True
+825,Tonmoy Chakraborty,2021,2024,['New Mexico'],True,3,3,False
+826,Toyoichi Tanaka,1975,1999,['MIT'],True,24,24,True
+827,Tristan Ursell,2014,2021,['Oregon'],True,7,7,True
+828,Tzer Han Tan,2023,2024,['UCSD'],True,1,1,False
+829,Ulrich H.E. Hansmann,1998,2010,['Michigan Tech'],True,12,12,True
+830,Umar Mohideen,2006,2024,['UC Riverside'],True,18,18,False
+831,Uwe Bergmann,2020,2024,['Wisconsin'],True,4,4,False
+832,Uwe Tauber,2003,2024,['Virginia Tech'],True,21,21,False
+833,V. Adrian Parsegian,2009,2022,['Massachusetts'],True,13,13,True
+834,Valerica Raicu,2004,2024,['UW-Milwaukee'],True,20,20,False
+835,Vasudev M. Kenkre,2000,2019,['New Mexico'],True,19,19,True
+836,Vernita Gordon,2010,2024,['Texas'],True,14,14,False
+837,Vijay Balasubramanian,2000,2024,['Pennsylvania'],True,24,24,False
+838,Vincent Noireaux,2005,2024,['Minnesota'],True,19,19,False
+839,Violet Diller,1947,1959,['Cincinnati'],True,12,12,True
+840,Virgil Elings,1976,1989,['UCSB'],True,13,13,True
+841,Vivek Prakash,2020,2024,['Miami'],True,4,4,False
+842,Vivek Venkatachalam,2017,2024,['Northeastern'],True,7,7,False
+843,W. Benjamin Rogers,2016,2024,['Brandeis'],True,8,8,False
+844,Wai-Yim Ching,2002,2019,['Missouri - KC'],True,17,17,True
+845,Walter Gilbert,1959,1967,['Harvard'],True,8,8,True
+846,Walter Gordy,1955,1979,['Duke'],True,24,24,True
+847,Walter M. Elsasser,1950,1955,['Utah'],True,5,5,True
+848,Wayne Newhauser,2014,2024,['LSU'],True,10,10,False
+849,Wayne Reed,1985,2019,['Tulane'],True,34,34,True
+850,Wazir Muhammad,2019,2024,['Florida Atlantic'],True,5,5,False
+851,Wei Chen,2002,2024,"['USF', 'Texas Arlington']",True,37,22,False
+852,Weihong Qiu,2013,2024,['Oregon State'],True,11,11,False
+853,Weiqun Peng,2004,2024,['Geo. Washington'],True,20,20,False
+854,Wenjun Zheng,2006,2024,['Buffalo'],True,18,18,False
+855,Wesley Nyborg,1958,2010,"['Brown', 'Vermont']",False,51,52,True
+856,William Bialek,1986,2024,"['UC Berkeley', 'Princeton']",False,27,38,False
+857,William Bovie,1920,1925,['Harvard'],True,5,5,True
+858,William Ditto,1994,1998,['Georgia Tech'],True,4,4,True
+859,William E. Dibble,1960,1974,['BYU'],True,14,14,True
+860,William H. Nelson,1979,2013,['GSU'],True,34,34,True
+861,William J. Leivo,1975,1984,['Oklahoma State'],True,9,9,True
+862,William S. Bickel,1976,1995,['Arizona'],True,19,19,True
+863,William T. Oosterhuis,1969,1973,['CMU'],True,4,4,True
+864,William Tobocman,1987,2002,['Case Western'],True,15,15,True
+865,William W. Beeman,1948,1980,['Wisconsin'],True,32,32,True
+866,Winfried Teizer,2009,2024,['Texas A&M'],True,15,15,False
+867,Wolfgang Losert,2004,2024,['Maryland'],True,20,20,False
+868,Woodrow Shew,2012,2024,['Arkansas'],True,12,12,False
+869,Wu-Pei Su,2015,2024,['Houston'],True,9,9,False
+870,Xiangdong Zhu,2003,2024,['UC Davis'],True,21,21,False
+871,Xiangyun Qiu,2010,2024,['Geo. Washington'],True,14,14,False
+872,Xiao-Jing Wang,1995,2005,['Brandeis'],True,10,10,True
+873,Xiao-Lun Wu,2006,2024,['Pittsburgh'],True,18,18,False
+874,Xiaoqin Zou,2007,2024,['Missouri'],True,17,17,False
+875,Xingchen Lin,2023,2024,['N. Carolina State'],True,1,1,False
+876,Xinsheng Ling,2008,2024,['Brown'],True,16,16,False
+877,Xomalin Peralta,2009,2016,['Texas San Antonio'],True,7,7,True
+878,Xujing Wang,2008,2012,['UAB'],True,4,4,True
+879,Yan Mei Wang,2006,2014,['Washington U'],True,8,8,True
+880,Yana Reshetnyak,2004,2024,['Rhode Island'],True,20,20,False
+881,Yann Chemla,2007,2024,['Illinois'],True,17,17,False
+882,Yaojun Zhang,2021,2024,['Johns Hopkins'],True,3,3,False
+883,Yi-Kuo Yu,1999,2003,['Florida Atlantic'],True,4,4,True
+884,Yong Wang,2016,2024,['Arkansas'],True,8,8,False
+885,Yoshitsugu Oono,1995,2017,['Illinois'],True,22,22,True
+886,Yujie Chi,2017,2024,['Texas Arlington'],True,7,7,False
+887,Yulia Pushkar,2008,2024,['Purdue'],True,16,16,False
+888,Z. Jane Wang,2011,2024,['Cornell'],True,13,13,False
+889,Zuzanna Siwy,2005,2024,['UC Irvine'],True,19,19,False
+890,Zvonimir Dogic,2007,2024,"['Brandeis', 'UCSB']",False,16,17,False
+891,Zygmunt Gryczynski,2016,2024,['Texas Christian'],True,8,8,False
